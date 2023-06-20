@@ -1,0 +1,804 @@
+[{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3705e"
+  },
+  "Country": "australia",
+  "Hip hop/Rap/R&b": 31,
+  "EDM": 15,
+  "Pop": 65,
+  "Rock/Metal": 17,
+  "Latin/Reggaeton": 0,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3705f"
+  },
+  "Country": "canada",
+  "Hip hop/Rap/R&b": 39,
+  "EDM": 12,
+  "Pop": 64,
+  "Rock/Metal": 14,
+  "Latin/Reggaeton": 0,
+  "Other": 10
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37060"
+  },
+  "Country": "china",
+  "Hip hop/Rap/R&b": 11,
+  "EDM": 23,
+  "Pop": 108,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 21
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37061"
+  },
+  "Country": "india",
+  "Hip hop/Rap/R&b": 25,
+  "EDM": 1,
+  "Pop": 39,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 0,
+  "Other": 55
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37062"
+  },
+  "Country": "mexico",
+  "Hip hop/Rap/R&b": 38,
+  "EDM": 0,
+  "Pop": 18,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 57,
+  "Other": 43
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37063"
+  },
+  "Country": "russia",
+  "Hip hop/Rap/R&b": 27,
+  "EDM": 9,
+  "Pop": 48,
+  "Rock/Metal": 9,
+  "Latin/Reggaeton": 2,
+  "Other": 9
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37064"
+  },
+  "Country": "usa",
+  "Hip hop/Rap/R&b": 49,
+  "EDM": 2,
+  "Pop": 33,
+  "Rock/Metal": 13,
+  "Latin/Reggaeton": 19,
+  "Other": 11
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37065"
+  },
+  "Country": "colombia",
+  "Hip hop/Rap/R&b": 50,
+  "EDM": 0,
+  "Pop": 22,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 86,
+  "Other": 3
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37066"
+  },
+  "Country": "france",
+  "Hip hop/Rap/R&b": 47,
+  "EDM": 6,
+  "Pop": 50,
+  "Rock/Metal": 7,
+  "Latin/Reggaeton": 1,
+  "Other": 22
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37067"
+  },
+  "Country": "italy",
+  "Hip hop/Rap/R&b": 47,
+  "EDM": 7,
+  "Pop": 35,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 9
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37068"
+  },
+  "Country": "japan",
+  "Hip hop/Rap/R&b": 0,
+  "EDM": 1,
+  "Pop": 63,
+  "Rock/Metal": 16,
+  "Latin/Reggaeton": 0,
+  "Other": 17
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37069"
+  },
+  "Country": "philippines",
+  "Hip hop/Rap/R&b": 21,
+  "EDM": 0,
+  "Pop": 35,
+  "Rock/Metal": 3,
+  "Latin/Reggaeton": 0,
+  "Other": 19
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706a"
+  },
+  "Country": "spain",
+  "Hip hop/Rap/R&b": 54,
+  "EDM": 0,
+  "Pop": 22,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 38,
+  "Other": 18
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706b"
+  },
+  "Country": "united_kingdom",
+  "Hip hop/Rap/R&b": 30,
+  "EDM": 25,
+  "Pop": 71,
+  "Rock/Metal": 17,
+  "Latin/Reggaeton": 0,
+  "Other": 11
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706c"
+  },
+  "Country": "puerto_rico",
+  "Hip hop/Rap/R&b": 158,
+  "EDM": 1,
+  "Pop": 40,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 219,
+  "Other": 14
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706d"
+  },
+  "Country": "argentina",
+  "Hip hop/Rap/R&b": 59,
+  "EDM": 0,
+  "Pop": 29,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 32,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706e"
+  },
+  "Country": "germany",
+  "Hip hop/Rap/R&b": 41,
+  "EDM": 18,
+  "Pop": 33,
+  "Rock/Metal": 3,
+  "Latin/Reggaeton": 2,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3706f"
+  },
+  "Country": "israel",
+  "Hip hop/Rap/R&b": 11,
+  "EDM": 0,
+  "Pop": 25,
+  "Rock/Metal": 5,
+  "Latin/Reggaeton": 0,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37070"
+  },
+  "Country": "paraguay",
+  "Hip hop/Rap/R&b": 55,
+  "EDM": 0,
+  "Pop": 22,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 66,
+  "Other": 6
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37071"
+  },
+  "Country": "argentina",
+  "Hip hop/Rap/R&b": 59,
+  "EDM": 0,
+  "Pop": 29,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 32,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37072"
+  },
+  "Country": "germany",
+  "Hip hop/Rap/R&b": 41,
+  "EDM": 18,
+  "Pop": 33,
+  "Rock/Metal": 3,
+  "Latin/Reggaeton": 2,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37073"
+  },
+  "Country": "israel",
+  "Hip hop/Rap/R&b": 11,
+  "EDM": 0,
+  "Pop": 25,
+  "Rock/Metal": 5,
+  "Latin/Reggaeton": 0,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37074"
+  },
+  "Country": "paraguay",
+  "Hip hop/Rap/R&b": 55,
+  "EDM": 0,
+  "Pop": 22,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 66,
+  "Other": 6
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37075"
+  },
+  "Country": "south_korea",
+  "Hip hop/Rap/R&b": 11,
+  "EDM": 0,
+  "Pop": 35,
+  "Rock/Metal": 1,
+  "Latin/Reggaeton": 0,
+  "Other": 1
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37076"
+  },
+  "Country": "taiwan",
+  "Hip hop/Rap/R&b": 3,
+  "EDM": 0,
+  "Pop": 60,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 21
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37077"
+  },
+  "Country": "ukraine",
+  "Hip hop/Rap/R&b": 23,
+  "EDM": 0,
+  "Pop": 26,
+  "Rock/Metal": 8,
+  "Latin/Reggaeton": 0,
+  "Other": 15
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37078"
+  },
+  "Country": "chile",
+  "Hip hop/Rap/R&b": 46,
+  "EDM": 0,
+  "Pop": 14,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 46,
+  "Other": 31
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37079"
+  },
+  "Country": "dominican_republic",
+  "Hip hop/Rap/R&b": 53,
+  "EDM": 0,
+  "Pop": 13,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 83,
+  "Other": 5
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707a"
+  },
+  "Country": "indonesia",
+  "Hip hop/Rap/R&b": 5,
+  "EDM": 0,
+  "Pop": 32,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 0,
+  "Other": 19
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707b"
+  },
+  "Country": "peru",
+  "Hip hop/Rap/R&b": 52,
+  "EDM": 0,
+  "Pop": 25,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 72,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707c"
+  },
+  "Country": "thailand",
+  "Hip hop/Rap/R&b": 7,
+  "EDM": 0,
+  "Pop": 38,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 1
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707d"
+  },
+  "Country": "turkey",
+  "Hip hop/Rap/R&b": 26,
+  "EDM": 0,
+  "Pop": 8,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 7
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707e"
+  },
+  "Country": "venezuela",
+  "Hip hop/Rap/R&b": 45,
+  "EDM": 0,
+  "Pop": 25,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 63,
+  "Other": 6
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3707f"
+  },
+  "Country": "denmark",
+  "Hip hop/Rap/R&b": 16,
+  "EDM": 8,
+  "Pop": 36,
+  "Rock/Metal": 7,
+  "Latin/Reggaeton": 0,
+  "Other": 5
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37080"
+  },
+  "Country": "egypt",
+  "Hip hop/Rap/R&b": 52,
+  "EDM": 0,
+  "Pop": 26,
+  "Rock/Metal": 5,
+  "Latin/Reggaeton": 0,
+  "Other": 6
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37081"
+  },
+  "Country": "hong_kong",
+  "Hip hop/Rap/R&b": 2,
+  "EDM": 0,
+  "Pop": 74,
+  "Rock/Metal": 1,
+  "Latin/Reggaeton": 0,
+  "Other": 4
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37082"
+  },
+  "Country": "ireland",
+  "Hip hop/Rap/R&b": 24,
+  "EDM": 31,
+  "Pop": 79,
+  "Rock/Metal": 9,
+  "Latin/Reggaeton": 0,
+  "Other": 10
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37083"
+  },
+  "Country": "morocco",
+  "Hip hop/Rap/R&b": 52,
+  "EDM": 1,
+  "Pop": 40,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 16
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37084"
+  },
+  "Country": "netherlands",
+  "Hip hop/Rap/R&b": 13,
+  "EDM": 39,
+  "Pop": 63,
+  "Rock/Metal": 7,
+  "Latin/Reggaeton": 0,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37085"
+  },
+  "Country": "norway",
+  "Hip hop/Rap/R&b": 13,
+  "EDM": 18,
+  "Pop": 44,
+  "Rock/Metal": 5,
+  "Latin/Reggaeton": 0,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37086"
+  },
+  "Country": "portugal",
+  "Hip hop/Rap/R&b": 13,
+  "EDM": 7,
+  "Pop": 28,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 46
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37087"
+  },
+  "Country": "vietnam",
+  "Hip hop/Rap/R&b": 19,
+  "EDM": 0,
+  "Pop": 35,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 19
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37088"
+  },
+  "Country": "bolivia",
+  "Hip hop/Rap/R&b": 51,
+  "EDM": 0,
+  "Pop": 29,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 72,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37089"
+  },
+  "Country": "bulgaria",
+  "Hip hop/Rap/R&b": 30,
+  "EDM": 7,
+  "Pop": 52,
+  "Rock/Metal": 17,
+  "Latin/Reggaeton": 0,
+  "Other": 20
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708a"
+  },
+  "Country": "costa_rica",
+  "Hip hop/Rap/R&b": 51,
+  "EDM": 0,
+  "Pop": 25,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 77,
+  "Other": 9
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708b"
+  },
+  "Country": "ecuador",
+  "Hip hop/Rap/R&b": 51,
+  "EDM": 0,
+  "Pop": 23,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 82,
+  "Other": 3
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708c"
+  },
+  "Country": "el_salvador",
+  "Hip hop/Rap/R&b": 51,
+  "EDM": 0,
+  "Pop": 17,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 81,
+  "Other": 7
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708d"
+  },
+  "Country": "greece",
+  "Hip hop/Rap/R&b": 47,
+  "EDM": 0,
+  "Pop": 10,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 0,
+  "Other": 10
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708e"
+  },
+  "Country": "guatemala",
+  "Hip hop/Rap/R&b": 42,
+  "EDM": 0,
+  "Pop": 17,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 71,
+  "Other": 24
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3708f"
+  },
+  "Country": "honduras",
+  "Hip hop/Rap/R&b": 50,
+  "EDM": 0,
+  "Pop": 17,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 86,
+  "Other": 7
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37090"
+  },
+  "Country": "malaysia",
+  "Hip hop/Rap/R&b": 9,
+  "EDM": 2,
+  "Pop": 59,
+  "Rock/Metal": 3,
+  "Latin/Reggaeton": 0,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37091"
+  },
+  "Country": "panama",
+  "Hip hop/Rap/R&b": 50,
+  "EDM": 0,
+  "Pop": 20,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 73,
+  "Other": 4
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37092"
+  },
+  "Country": "poland",
+  "Hip hop/Rap/R&b": 38,
+  "EDM": 9,
+  "Pop": 21,
+  "Rock/Metal": 6,
+  "Latin/Reggaeton": 0,
+  "Other": 5
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37093"
+  },
+  "Country": "sweden",
+  "Hip hop/Rap/R&b": 31,
+  "EDM": 17,
+  "Pop": 61,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 10
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37094"
+  },
+  "Country": "austria",
+  "Hip hop/Rap/R&b": 28,
+  "EDM": 17,
+  "Pop": 28,
+  "Rock/Metal": 6,
+  "Latin/Reggaeton": 2,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37095"
+  },
+  "Country": "finland",
+  "Hip hop/Rap/R&b": 27,
+  "EDM": 5,
+  "Pop": 53,
+  "Rock/Metal": 7,
+  "Latin/Reggaeton": 0,
+  "Other": 4
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37096"
+  },
+  "Country": "hungary",
+  "Hip hop/Rap/R&b": 18,
+  "EDM": 21,
+  "Pop": 33,
+  "Rock/Metal": 9,
+  "Latin/Reggaeton": 2,
+  "Other": 8
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37097"
+  },
+  "Country": "iceland",
+  "Hip hop/Rap/R&b": 22,
+  "EDM": 4,
+  "Pop": 47,
+  "Rock/Metal": 11,
+  "Latin/Reggaeton": 2,
+  "Other": 38
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37098"
+  },
+  "Country": "lithuania",
+  "Hip hop/Rap/R&b": 22,
+  "EDM": 18,
+  "Pop": 41,
+  "Rock/Metal": 11,
+  "Latin/Reggaeton": 0,
+  "Other": 12
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb37099"
+  },
+  "Country": "new_zealand",
+  "Hip hop/Rap/R&b": 44,
+  "EDM": 4,
+  "Pop": 48,
+  "Rock/Metal": 20,
+  "Latin/Reggaeton": 0,
+  "Other": 10
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709a"
+  },
+  "Country": "nicaragua",
+  "Hip hop/Rap/R&b": 51,
+  "EDM": 0,
+  "Pop": 15,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 83,
+  "Other": 7
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709b"
+  },
+  "Country": "romania",
+  "Hip hop/Rap/R&b": 8,
+  "EDM": 7,
+  "Pop": 18,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 4
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709c"
+  },
+  "Country": "singapore",
+  "Hip hop/Rap/R&b": 12,
+  "EDM": 3,
+  "Pop": 60,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 9
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709d"
+  },
+  "Country": "south_africa",
+  "Hip hop/Rap/R&b": 46,
+  "EDM": 4,
+  "Pop": 59,
+  "Rock/Metal": 4,
+  "Latin/Reggaeton": 0,
+  "Other": 21
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709e"
+  },
+  "Country": "switzerland",
+  "Hip hop/Rap/R&b": 39,
+  "EDM": 25,
+  "Pop": 59,
+  "Rock/Metal": 6,
+  "Latin/Reggaeton": 2,
+  "Other": 13
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb3709f"
+  },
+  "Country": "uruguay",
+  "Hip hop/Rap/R&b": 50,
+  "EDM": 0,
+  "Pop": 30,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 32,
+  "Other": 5
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a0"
+  },
+  "Country": "czech_republic",
+  "Hip hop/Rap/R&b": 42,
+  "EDM": 21,
+  "Pop": 36,
+  "Rock/Metal": 17,
+  "Latin/Reggaeton": 2,
+  "Other": 9
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a1"
+  },
+  "Country": "indonesia",
+  "Hip hop/Rap/R&b": 2,
+  "EDM": 0,
+  "Pop": 27,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 0,
+  "Other": 21
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a2"
+  },
+  "Country": "mongolia",
+  "Hip hop/Rap/R&b": 108,
+  "EDM": 0,
+  "Pop": 113,
+  "Rock/Metal": 16,
+  "Latin/Reggaeton": 0,
+  "Other": 17
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a3"
+  },
+  "Country": "pakistan",
+  "Hip hop/Rap/R&b": 32,
+  "EDM": 1,
+  "Pop": 39,
+  "Rock/Metal": 1,
+  "Latin/Reggaeton": 0,
+  "Other": 28
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a4"
+  },
+  "Country": "philippines",
+  "Hip hop/Rap/R&b": 24,
+  "EDM": 2,
+  "Pop": 37,
+  "Rock/Metal": 0,
+  "Latin/Reggaeton": 0,
+  "Other": 23
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a5"
+  },
+  "Country": "saudi_arabia",
+  "Hip hop/Rap/R&b": 11,
+  "EDM": 7,
+  "Pop": 57,
+  "Rock/Metal": 12,
+  "Latin/Reggaeton": 0,
+  "Other": 19
+},{
+  "_id": {
+    "$oid": "6490f46f8c1574906eb370a6"
+  },
+  "Country": "brazil",
+  "Hip hop/Rap/R&b": 9,
+  "EDM": 0,
+  "Pop": 20,
+  "Rock/Metal": 2,
+  "Latin/Reggaeton": 0,
+  "Other": 78
+}]
