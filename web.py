@@ -31,7 +31,7 @@ def welcome():
                                       "Db","Liveness","Valence","Duration","Acousticness","Speechiness"]]
     # second bar chart in carousel - which song characteristics that contributed to the popularity in that year
     Year_song_char = pd.DataFrame(Year_bin.groupby("Year").sum())
-
+    #comment
     Year_song_char.drop(columns=["Title","Artist","Genre","GenreIcon","Popularity","Duration"],inplace=True)
 
 
