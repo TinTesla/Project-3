@@ -1,0 +1,43 @@
+Q: What attributes make a song popular in general?
+
+Are there certain song qualities that are more prevalent in some decades than others?
+
+Are there certain song qualities that are more prevalent in some decades than others?
+
+countries dataset: https://github.com/albertyw/avenews/blob/master/old/data/average-latitude-longitude-countries.csv
+
+Data manipulation and plotting for patterns:
+
+Attributes were measured against each other to see if there were strong correlations between certain attributes and song popularity (popularity is one of the attributes using a ranking rather than a rating)
+Average attribute levels were calculated for each year to see how the average changed over time
+Created data frame for each decade to look at changes in correlations during different decades
+
+
+chart.js
+https://www.chartjs.org/docs/latest/getting-started/
+https://www.chartjs.org/docs/latest/charts/bar.html
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+doughnut: 
+https://www.chartjs.org/docs/latest/charts/doughnut.html#doughnut
+
+Stamen toner leaflet.js plugin for maps:
+https://stackoverflow.com/questions/48874337/how-to-use-leaflet-js-plugin-with-stamen-maps
+https://leafletjs.com/examples/quick-start/
+
+flag icons -> https://flagpedia.net/download/api
+
+
+bootstrap
+https://codepen.io/NolWag/pen/LzdOmb
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+slick carousel -> https://alvarotrigo.com/blog/jquery-carousel/
+jquery plugins-> https://github.com/kenwheeler/slick
+
+
+correlation coefficient heatmap matrix - between all variables - for each song, genre, year
+
+all the song characteristics vs year
+
+https://www.flaticon.com/search?word=music

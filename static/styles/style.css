@@ -1,0 +1,84 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+.fill {
+  height: 100%;
+  min-height: 100%;
+}
+
+.apptable{
+    height:200px;
+    display:block;
+}
+
+table.pop_tbl>tr>td{
+    vertical-align:top!important;
+
+}
+
+ul.popular_songlist{
+    list-style-type: none!important;
+    height:480px;
+    font-size:13px;
+    overflow-y:scroll;
+
+
+}
+
+ul.popular_songlist>li{
+border-top:.5px solid #D3D3D3;
+display:inline-block;
+width: 100%
+
+}
+
+ul.popular_songlist>li>img{
+cursor:pointer;
+}
+
+td.songlist{
+    width:100%;
+}
+
+
+
+canvas{
+margin:5px;
+border-top:.5px solid #D3D3D3;
+}
+
+h1,h2,h3,h4,h5,h6,h7{
+font-weight:600;
+}
+
+.appMap{
+height: 500px;
+}
+
+.year_data>h4{
+margin-left:5%;
+font-weight:700;
+}
+
+.year_data{
+border-right:1px solid #D3D3D3;
+}
+
+.genrelist{
+list-style-type:none;
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+grid-gap: 1px;
+padding-left:5%;
+}
+
+.banner{
+padding:2%;
+}
+
+.banner>h2{
+font-weight:700
+}
+

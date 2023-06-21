@@ -1,0 +1,7 @@
+{
+  "appdataDirectory": "Clean",
+  "Genres_by_country_filename" : "cleaned_country_data.csv",
+  "Spotify_data_filename" : "cleaned_spotify_data.csv",
+  "Countries_lat_lng" : "countries.csv",
+  "app_port": 9090
+}
