@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graph Display</title>
+    <script src="app.js"></script>
+</head>
+<body>
+    <h1>Graph Display</h1>
+    <label for="genre">Select Genre:</label>
+    <select id="genre" onchange="updateGraph()">
+        <option value="">All Genres</option>
+    </select>
+    <div id="bubble"></div>
+    <div id="choropleth"></div>
+
+    <!-- Include the Plotly library -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</body>
+</html>
