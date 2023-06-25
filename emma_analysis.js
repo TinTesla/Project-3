@@ -34,8 +34,8 @@ function init() {
     let y = [];
   
     if (dataset === 'dataset1') {
-        x: ["Rihanna","Justin Bieber","Ed Sheeran","OneRepublic","Taio Cruz","Taylor Swift","Selena Gomez & The Scene","Jonas Blue","One Direction","Flo Rida","Eminem","Swedish House Mafia","The Chainsmokers","Maroon 5","Trey Songz"];
-        y: [5,4,3,3,3,3,2,2,2,2,2,2,2,2,2];
+        x = ["Rihanna","Justin Bieber","Ed Sheeran","OneRepublic","Taio Cruz","Taylor Swift","Selena Gomez & The Scene","Jonas Blue","One Direction","Flo Rida","Eminem","Swedish House Mafia","The Chainsmokers","Maroon 5","Trey Songz"];
+        y = [5,4,3,3,3,3,2,2,2,2,2,2,2,2,2];
     }
   
     else if (dataset === 'dataset2') {
