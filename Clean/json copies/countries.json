@@ -1,0 +1,1921 @@
+[{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d5c"
+  },
+  "CountryCode": "AD",
+  "Country": "Andorra",
+  "Latitude": 42.5,
+  "Longitude": 1.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d5d"
+  },
+  "CountryCode": "AE",
+  "Country": "United Arab Emirates",
+  "Latitude": 24,
+  "Longitude": 54
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d5e"
+  },
+  "CountryCode": "AF",
+  "Country": "Afghanistan",
+  "Latitude": 33,
+  "Longitude": 65
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d5f"
+  },
+  "CountryCode": "AG",
+  "Country": "Antigua and Barbuda",
+  "Latitude": 17.05,
+  "Longitude": -61.8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d60"
+  },
+  "CountryCode": "AI",
+  "Country": "Anguilla",
+  "Latitude": 18.25,
+  "Longitude": -63.17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d61"
+  },
+  "CountryCode": "AL",
+  "Country": "Albania",
+  "Latitude": 41,
+  "Longitude": 20
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d62"
+  },
+  "CountryCode": "AM",
+  "Country": "Armenia",
+  "Latitude": 40,
+  "Longitude": 45
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d63"
+  },
+  "CountryCode": "AN",
+  "Country": "Netherlands Antilles",
+  "Latitude": 12.25,
+  "Longitude": -68.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d64"
+  },
+  "CountryCode": "AO",
+  "Country": "Angola",
+  "Latitude": -12.5,
+  "Longitude": 18.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d65"
+  },
+  "CountryCode": "AP",
+  "Country": "Asia/Pacific Region",
+  "Latitude": 35,
+  "Longitude": 105
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d66"
+  },
+  "CountryCode": "AQ",
+  "Country": "Antarctica",
+  "Latitude": -90,
+  "Longitude": 0
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d67"
+  },
+  "CountryCode": "AR",
+  "Country": "Argentina",
+  "Latitude": -34,
+  "Longitude": -64
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d68"
+  },
+  "CountryCode": "AS",
+  "Country": "American Samoa",
+  "Latitude": -14.33,
+  "Longitude": -170
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d69"
+  },
+  "CountryCode": "AT",
+  "Country": "Austria",
+  "Latitude": 47.33,
+  "Longitude": 13.33
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6a"
+  },
+  "CountryCode": "AU",
+  "Country": "Australia",
+  "Latitude": -27,
+  "Longitude": 133
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6b"
+  },
+  "CountryCode": "AW",
+  "Country": "Aruba",
+  "Latitude": 12.5,
+  "Longitude": -69.97
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6c"
+  },
+  "CountryCode": "AZ",
+  "Country": "Azerbaijan",
+  "Latitude": 40.5,
+  "Longitude": 47.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6d"
+  },
+  "CountryCode": "BA",
+  "Country": "Bosnia and Herzegovina",
+  "Latitude": 44,
+  "Longitude": 18
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6e"
+  },
+  "CountryCode": "BB",
+  "Country": "Barbados",
+  "Latitude": 13.17,
+  "Longitude": -59.53
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d6f"
+  },
+  "CountryCode": "BD",
+  "Country": "Bangladesh",
+  "Latitude": 24,
+  "Longitude": 90
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d70"
+  },
+  "CountryCode": "BE",
+  "Country": "Belgium",
+  "Latitude": 50.83,
+  "Longitude": 4
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d71"
+  },
+  "CountryCode": "BF",
+  "Country": "Burkina Faso",
+  "Latitude": 13,
+  "Longitude": -2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d72"
+  },
+  "CountryCode": "BG",
+  "Country": "Bulgaria",
+  "Latitude": 43,
+  "Longitude": 25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d73"
+  },
+  "CountryCode": "BH",
+  "Country": "Bahrain",
+  "Latitude": 26,
+  "Longitude": 50.55
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d74"
+  },
+  "CountryCode": "BI",
+  "Country": "Burundi",
+  "Latitude": -3.5,
+  "Longitude": 30
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d75"
+  },
+  "CountryCode": "BJ",
+  "Country": "Benin",
+  "Latitude": 9.5,
+  "Longitude": 2.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d76"
+  },
+  "CountryCode": "BM",
+  "Country": "Bermuda",
+  "Latitude": 32.33,
+  "Longitude": -64.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d77"
+  },
+  "CountryCode": "BN",
+  "Country": "Brunei Darussalam",
+  "Latitude": 4.5,
+  "Longitude": 114.67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d78"
+  },
+  "CountryCode": "BO",
+  "Country": "Bolivia",
+  "Latitude": -17,
+  "Longitude": -65
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d79"
+  },
+  "CountryCode": "BR",
+  "Country": "Brazil",
+  "Latitude": -10,
+  "Longitude": -55
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7a"
+  },
+  "CountryCode": "BS",
+  "Country": "Bahamas",
+  "Latitude": 24.25,
+  "Longitude": -76
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7b"
+  },
+  "CountryCode": "BT",
+  "Country": "Bhutan",
+  "Latitude": 27.5,
+  "Longitude": 90.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7c"
+  },
+  "CountryCode": "BV",
+  "Country": "Bouvet Island",
+  "Latitude": -54.43,
+  "Longitude": 3.4
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7d"
+  },
+  "CountryCode": "BW",
+  "Country": "Botswana",
+  "Latitude": -22,
+  "Longitude": 24
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7e"
+  },
+  "CountryCode": "BY",
+  "Country": "Belarus",
+  "Latitude": 53,
+  "Longitude": 28
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d7f"
+  },
+  "CountryCode": "BZ",
+  "Country": "Belize",
+  "Latitude": 17.25,
+  "Longitude": -88.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d80"
+  },
+  "CountryCode": "CA",
+  "Country": "Canada",
+  "Latitude": 60,
+  "Longitude": -95
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d81"
+  },
+  "CountryCode": "CC",
+  "Country": "Cocos (Keeling) Islands",
+  "Latitude": -12.5,
+  "Longitude": 96.83
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d82"
+  },
+  "CountryCode": "CD",
+  "Country": "Congo, The Democratic Republic of the",
+  "Latitude": 0,
+  "Longitude": 25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d83"
+  },
+  "CountryCode": "CF",
+  "Country": "Central African Republic",
+  "Latitude": 7,
+  "Longitude": 21
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d84"
+  },
+  "CountryCode": "CG",
+  "Country": "Congo",
+  "Latitude": -1,
+  "Longitude": 15
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d85"
+  },
+  "CountryCode": "CH",
+  "Country": "Switzerland",
+  "Latitude": 47,
+  "Longitude": 8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d86"
+  },
+  "CountryCode": "CI",
+  "Country": "Cote d'Ivoire",
+  "Latitude": 8,
+  "Longitude": -5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d87"
+  },
+  "CountryCode": "CK",
+  "Country": "Cook Islands",
+  "Latitude": -21.23,
+  "Longitude": -159.77
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d88"
+  },
+  "CountryCode": "CL",
+  "Country": "Chile",
+  "Latitude": -30,
+  "Longitude": -71
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d89"
+  },
+  "CountryCode": "CM",
+  "Country": "Cameroon",
+  "Latitude": 6,
+  "Longitude": 12
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8a"
+  },
+  "CountryCode": "CN",
+  "Country": "China",
+  "Latitude": 35,
+  "Longitude": 105
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8b"
+  },
+  "CountryCode": "CO",
+  "Country": "Colombia",
+  "Latitude": 4,
+  "Longitude": -72
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8c"
+  },
+  "CountryCode": "CR",
+  "Country": "Costa Rica",
+  "Latitude": 10,
+  "Longitude": -84
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8d"
+  },
+  "CountryCode": "CU",
+  "Country": "Cuba",
+  "Latitude": 21.5,
+  "Longitude": -80
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8e"
+  },
+  "CountryCode": "CV",
+  "Country": "Cape Verde",
+  "Latitude": 16,
+  "Longitude": -24
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d8f"
+  },
+  "CountryCode": "CX",
+  "Country": "Christmas Island",
+  "Latitude": -10.5,
+  "Longitude": 105.67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d90"
+  },
+  "CountryCode": "CY",
+  "Country": "Cyprus",
+  "Latitude": 35,
+  "Longitude": 33
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d91"
+  },
+  "CountryCode": "CZ",
+  "Country": "Czech Republic",
+  "Latitude": 49.75,
+  "Longitude": 15.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d92"
+  },
+  "CountryCode": "DE",
+  "Country": "Germany",
+  "Latitude": 51,
+  "Longitude": 9
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d93"
+  },
+  "CountryCode": "DJ",
+  "Country": "Djibouti",
+  "Latitude": 11.5,
+  "Longitude": 43
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d94"
+  },
+  "CountryCode": "DK",
+  "Country": "Denmark",
+  "Latitude": 56,
+  "Longitude": 10
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d95"
+  },
+  "CountryCode": "DM",
+  "Country": "Dominica",
+  "Latitude": 15.42,
+  "Longitude": -61.33
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d96"
+  },
+  "CountryCode": "DO",
+  "Country": "Dominican Republic",
+  "Latitude": 19,
+  "Longitude": -70.67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d97"
+  },
+  "CountryCode": "DZ",
+  "Country": "Algeria",
+  "Latitude": 28,
+  "Longitude": 3
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d98"
+  },
+  "CountryCode": "EC",
+  "Country": "Ecuador",
+  "Latitude": -2,
+  "Longitude": -77.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d99"
+  },
+  "CountryCode": "EE",
+  "Country": "Estonia",
+  "Latitude": 59,
+  "Longitude": 26
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9a"
+  },
+  "CountryCode": "EG",
+  "Country": "Egypt",
+  "Latitude": 27,
+  "Longitude": 30
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9b"
+  },
+  "CountryCode": "EH",
+  "Country": "Western Sahara",
+  "Latitude": 24.5,
+  "Longitude": -13
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9c"
+  },
+  "CountryCode": "ER",
+  "Country": "Eritrea",
+  "Latitude": 15,
+  "Longitude": 39
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9d"
+  },
+  "CountryCode": "ES",
+  "Country": "Spain",
+  "Latitude": 40,
+  "Longitude": -4
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9e"
+  },
+  "CountryCode": "ET",
+  "Country": "Ethiopia",
+  "Latitude": 8,
+  "Longitude": 38
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130d9f"
+  },
+  "CountryCode": "EU",
+  "Country": "Europe",
+  "Latitude": 47,
+  "Longitude": 8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da0"
+  },
+  "CountryCode": "FI",
+  "Country": "Finland",
+  "Latitude": 64,
+  "Longitude": 26
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da1"
+  },
+  "CountryCode": "FJ",
+  "Country": "Fiji",
+  "Latitude": -18,
+  "Longitude": 175
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da2"
+  },
+  "CountryCode": "FK",
+  "Country": "Falkland Islands (Malvinas)",
+  "Latitude": -51.75,
+  "Longitude": -59
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da3"
+  },
+  "CountryCode": "FM",
+  "Country": "Micronesia, Federated States of",
+  "Latitude": 6.92,
+  "Longitude": 158.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da4"
+  },
+  "CountryCode": "FO",
+  "Country": "Faroe Islands",
+  "Latitude": 62,
+  "Longitude": -7
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da5"
+  },
+  "CountryCode": "FR",
+  "Country": "France",
+  "Latitude": 46,
+  "Longitude": 2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da6"
+  },
+  "CountryCode": "GA",
+  "Country": "Gabon",
+  "Latitude": -1,
+  "Longitude": 11.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da7"
+  },
+  "CountryCode": "GB",
+  "Country": "United Kingdom",
+  "Latitude": 54,
+  "Longitude": -2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da8"
+  },
+  "CountryCode": "GD",
+  "Country": "Grenada",
+  "Latitude": 12.12,
+  "Longitude": -61.67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130da9"
+  },
+  "CountryCode": "GE",
+  "Country": "Georgia",
+  "Latitude": 42,
+  "Longitude": 43.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130daa"
+  },
+  "CountryCode": "GF",
+  "Country": "French Guiana",
+  "Latitude": 4,
+  "Longitude": -53
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dab"
+  },
+  "CountryCode": "GH",
+  "Country": "Ghana",
+  "Latitude": 8,
+  "Longitude": -2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dac"
+  },
+  "CountryCode": "GI",
+  "Country": "Gibraltar",
+  "Latitude": 36.18,
+  "Longitude": -5.37
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dad"
+  },
+  "CountryCode": "GL",
+  "Country": "Greenland",
+  "Latitude": 72,
+  "Longitude": -40
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dae"
+  },
+  "CountryCode": "GM",
+  "Country": "Gambia",
+  "Latitude": 13.47,
+  "Longitude": -16.57
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130daf"
+  },
+  "CountryCode": "GN",
+  "Country": "Guinea",
+  "Latitude": 11,
+  "Longitude": -10
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db0"
+  },
+  "CountryCode": "GP",
+  "Country": "Guadeloupe",
+  "Latitude": 16.25,
+  "Longitude": -61.58
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db1"
+  },
+  "CountryCode": "GQ",
+  "Country": "Equatorial Guinea",
+  "Latitude": 2,
+  "Longitude": 10
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db2"
+  },
+  "CountryCode": "GR",
+  "Country": "Greece",
+  "Latitude": 39,
+  "Longitude": 22
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db3"
+  },
+  "CountryCode": "GS",
+  "Country": "South Georgia and the South Sandwich Islands",
+  "Latitude": -54.5,
+  "Longitude": -37
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db4"
+  },
+  "CountryCode": "GT",
+  "Country": "Guatemala",
+  "Latitude": 15.5,
+  "Longitude": -90.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db5"
+  },
+  "CountryCode": "GU",
+  "Country": "Guam",
+  "Latitude": 13.47,
+  "Longitude": 144.78
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db6"
+  },
+  "CountryCode": "GW",
+  "Country": "Guinea-Bissau",
+  "Latitude": 12,
+  "Longitude": -15
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db7"
+  },
+  "CountryCode": "GY",
+  "Country": "Guyana",
+  "Latitude": 5,
+  "Longitude": -59
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db8"
+  },
+  "CountryCode": "HK",
+  "Country": "Hong Kong",
+  "Latitude": 22.25,
+  "Longitude": 114.17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130db9"
+  },
+  "CountryCode": "HM",
+  "Country": "Heard Island and McDonald Islands",
+  "Latitude": -53.1,
+  "Longitude": 72.52
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dba"
+  },
+  "CountryCode": "HN",
+  "Country": "Honduras",
+  "Latitude": 15,
+  "Longitude": -86.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dbb"
+  },
+  "CountryCode": "HR",
+  "Country": "Croatia",
+  "Latitude": 45.17,
+  "Longitude": 15.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dbc"
+  },
+  "CountryCode": "HT",
+  "Country": "Haiti",
+  "Latitude": 19,
+  "Longitude": -72.42
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dbd"
+  },
+  "CountryCode": "HU",
+  "Country": "Hungary",
+  "Latitude": 47,
+  "Longitude": 20
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dbe"
+  },
+  "CountryCode": "ID",
+  "Country": "Indonesia",
+  "Latitude": -5,
+  "Longitude": 120
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dbf"
+  },
+  "CountryCode": "IE",
+  "Country": "Ireland",
+  "Latitude": 53,
+  "Longitude": -8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc0"
+  },
+  "CountryCode": "IL",
+  "Country": "Israel",
+  "Latitude": 31.5,
+  "Longitude": 34.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc1"
+  },
+  "CountryCode": "IN",
+  "Country": "India",
+  "Latitude": 20,
+  "Longitude": 77
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc2"
+  },
+  "CountryCode": "IO",
+  "Country": "British Indian Ocean Territory",
+  "Latitude": -6,
+  "Longitude": 71.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc3"
+  },
+  "CountryCode": "IQ",
+  "Country": "Iraq",
+  "Latitude": 33,
+  "Longitude": 44
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc4"
+  },
+  "CountryCode": "IR",
+  "Country": "Iran, Islamic Republic of",
+  "Latitude": 32,
+  "Longitude": 53
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc5"
+  },
+  "CountryCode": "IS",
+  "Country": "Iceland",
+  "Latitude": 65,
+  "Longitude": -18
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc6"
+  },
+  "CountryCode": "IT",
+  "Country": "Italy",
+  "Latitude": 42.83,
+  "Longitude": 12.83
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc7"
+  },
+  "CountryCode": "JM",
+  "Country": "Jamaica",
+  "Latitude": 18.25,
+  "Longitude": -77.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc8"
+  },
+  "CountryCode": "JO",
+  "Country": "Jordan",
+  "Latitude": 31,
+  "Longitude": 36
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dc9"
+  },
+  "CountryCode": "JP",
+  "Country": "Japan",
+  "Latitude": 36,
+  "Longitude": 138
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dca"
+  },
+  "CountryCode": "KE",
+  "Country": "Kenya",
+  "Latitude": 1,
+  "Longitude": 38
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dcb"
+  },
+  "CountryCode": "KG",
+  "Country": "Kyrgyzstan",
+  "Latitude": 41,
+  "Longitude": 75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dcc"
+  },
+  "CountryCode": "KH",
+  "Country": "Cambodia",
+  "Latitude": 13,
+  "Longitude": 105
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dcd"
+  },
+  "CountryCode": "KI",
+  "Country": "Kiribati",
+  "Latitude": 1.42,
+  "Longitude": 173
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dce"
+  },
+  "CountryCode": "KM",
+  "Country": "Comoros",
+  "Latitude": -12.17,
+  "Longitude": 44.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dcf"
+  },
+  "CountryCode": "KN",
+  "Country": "Saint Kitts and Nevis",
+  "Latitude": 17.33,
+  "Longitude": -62.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd0"
+  },
+  "CountryCode": "KP",
+  "Country": "North Korea",
+  "Latitude": 40,
+  "Longitude": 127
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd1"
+  },
+  "CountryCode": "KR",
+  "Country": "South Korea",
+  "Latitude": 37,
+  "Longitude": 127.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd2"
+  },
+  "CountryCode": "KW",
+  "Country": "Kuwait",
+  "Latitude": 29.34,
+  "Longitude": 47.66
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd3"
+  },
+  "CountryCode": "KY",
+  "Country": "Cayman Islands",
+  "Latitude": 19.5,
+  "Longitude": -80.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd4"
+  },
+  "CountryCode": "KZ",
+  "Country": "Kazakhstan",
+  "Latitude": 48,
+  "Longitude": 68
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd5"
+  },
+  "CountryCode": "LA",
+  "Country": "Lao People's Democratic Republic",
+  "Latitude": 18,
+  "Longitude": 105
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd6"
+  },
+  "CountryCode": "LB",
+  "Country": "Lebanon",
+  "Latitude": 33.83,
+  "Longitude": 35.83
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd7"
+  },
+  "CountryCode": "LC",
+  "Country": "Saint Lucia",
+  "Latitude": 13.88,
+  "Longitude": -61.13
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd8"
+  },
+  "CountryCode": "LI",
+  "Country": "Liechtenstein",
+  "Latitude": 47.17,
+  "Longitude": 9.53
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dd9"
+  },
+  "CountryCode": "LK",
+  "Country": "Sri Lanka",
+  "Latitude": 7,
+  "Longitude": 81
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dda"
+  },
+  "CountryCode": "LR",
+  "Country": "Liberia",
+  "Latitude": 6.5,
+  "Longitude": -9.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130ddb"
+  },
+  "CountryCode": "LS",
+  "Country": "Lesotho",
+  "Latitude": -29.5,
+  "Longitude": 28.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130ddc"
+  },
+  "CountryCode": "LT",
+  "Country": "Lithuania",
+  "Latitude": 56,
+  "Longitude": 24
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130ddd"
+  },
+  "CountryCode": "LU",
+  "Country": "Luxembourg",
+  "Latitude": 49.75,
+  "Longitude": 6.17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dde"
+  },
+  "CountryCode": "LV",
+  "Country": "Latvia",
+  "Latitude": 57,
+  "Longitude": 25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130ddf"
+  },
+  "CountryCode": "LY",
+  "Country": "Libyan Arab Jamahiriya",
+  "Latitude": 25,
+  "Longitude": 17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de0"
+  },
+  "CountryCode": "MA",
+  "Country": "Morocco",
+  "Latitude": 32,
+  "Longitude": -5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de1"
+  },
+  "CountryCode": "MC",
+  "Country": "Monaco",
+  "Latitude": 43.73,
+  "Longitude": 7.4
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de2"
+  },
+  "CountryCode": "MD",
+  "Country": "Moldova, Republic of",
+  "Latitude": 47,
+  "Longitude": 29
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de3"
+  },
+  "CountryCode": "ME",
+  "Country": "Montenegro",
+  "Latitude": 42,
+  "Longitude": 19
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de4"
+  },
+  "CountryCode": "MG",
+  "Country": "Madagascar",
+  "Latitude": -20,
+  "Longitude": 47
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de5"
+  },
+  "CountryCode": "MH",
+  "Country": "Marshall Islands",
+  "Latitude": 9,
+  "Longitude": 168
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de6"
+  },
+  "CountryCode": "MK",
+  "Country": "Macedonia",
+  "Latitude": 41.83,
+  "Longitude": 22
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de7"
+  },
+  "CountryCode": "ML",
+  "Country": "Mali",
+  "Latitude": 17,
+  "Longitude": -4
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de8"
+  },
+  "CountryCode": "MM",
+  "Country": "Myanmar",
+  "Latitude": 22,
+  "Longitude": 98
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130de9"
+  },
+  "CountryCode": "MN",
+  "Country": "Mongolia",
+  "Latitude": 46,
+  "Longitude": 105
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dea"
+  },
+  "CountryCode": "MO",
+  "Country": "Macao",
+  "Latitude": 22.17,
+  "Longitude": 113.55
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130deb"
+  },
+  "CountryCode": "MP",
+  "Country": "Northern Mariana Islands",
+  "Latitude": 15.2,
+  "Longitude": 145.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dec"
+  },
+  "CountryCode": "MQ",
+  "Country": "Martinique",
+  "Latitude": 14.67,
+  "Longitude": -61
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130ded"
+  },
+  "CountryCode": "MR",
+  "Country": "Mauritania",
+  "Latitude": 20,
+  "Longitude": -12
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dee"
+  },
+  "CountryCode": "MS",
+  "Country": "Montserrat",
+  "Latitude": 16.75,
+  "Longitude": -62.2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130def"
+  },
+  "CountryCode": "MT",
+  "Country": "Malta",
+  "Latitude": 35.83,
+  "Longitude": 14.58
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df0"
+  },
+  "CountryCode": "MU",
+  "Country": "Mauritius",
+  "Latitude": -20.28,
+  "Longitude": 57.55
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df1"
+  },
+  "CountryCode": "MV",
+  "Country": "Maldives",
+  "Latitude": 3.25,
+  "Longitude": 73
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df2"
+  },
+  "CountryCode": "MW",
+  "Country": "Malawi",
+  "Latitude": -13.5,
+  "Longitude": 34
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df3"
+  },
+  "CountryCode": "MX",
+  "Country": "Mexico",
+  "Latitude": 23,
+  "Longitude": -102
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df4"
+  },
+  "CountryCode": "MY",
+  "Country": "Malaysia",
+  "Latitude": 2.5,
+  "Longitude": 112.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df5"
+  },
+  "CountryCode": "MZ",
+  "Country": "Mozambique",
+  "Latitude": -18.25,
+  "Longitude": 35
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df6"
+  },
+  "CountryCode": "NA",
+  "Country": "Namibia",
+  "Latitude": -22,
+  "Longitude": 17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df7"
+  },
+  "CountryCode": "NC",
+  "Country": "New Caledonia",
+  "Latitude": -21.5,
+  "Longitude": 165.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df8"
+  },
+  "CountryCode": "NE",
+  "Country": "Niger",
+  "Latitude": 16,
+  "Longitude": 8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130df9"
+  },
+  "CountryCode": "NF",
+  "Country": "Norfolk Island",
+  "Latitude": -29.03,
+  "Longitude": 167.95
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dfa"
+  },
+  "CountryCode": "NG",
+  "Country": "Nigeria",
+  "Latitude": 10,
+  "Longitude": 8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dfb"
+  },
+  "CountryCode": "NI",
+  "Country": "Nicaragua",
+  "Latitude": 13,
+  "Longitude": -85
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dfc"
+  },
+  "CountryCode": "NL",
+  "Country": "Netherlands",
+  "Latitude": 52.5,
+  "Longitude": 5.75
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dfd"
+  },
+  "CountryCode": "NO",
+  "Country": "Norway",
+  "Latitude": 62,
+  "Longitude": 10
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dfe"
+  },
+  "CountryCode": "NP",
+  "Country": "Nepal",
+  "Latitude": 28,
+  "Longitude": 84
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130dff"
+  },
+  "CountryCode": "NR",
+  "Country": "Nauru",
+  "Latitude": -0.53,
+  "Longitude": 166.92
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e00"
+  },
+  "CountryCode": "NU",
+  "Country": "Niue",
+  "Latitude": -19.03,
+  "Longitude": -169.87
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e01"
+  },
+  "CountryCode": "NZ",
+  "Country": "New Zealand",
+  "Latitude": -41,
+  "Longitude": 174
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e02"
+  },
+  "CountryCode": "OM",
+  "Country": "Oman",
+  "Latitude": 21,
+  "Longitude": 57
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e03"
+  },
+  "CountryCode": "PA",
+  "Country": "Panama",
+  "Latitude": 9,
+  "Longitude": -80
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e04"
+  },
+  "CountryCode": "PE",
+  "Country": "Peru",
+  "Latitude": -10,
+  "Longitude": -76
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e05"
+  },
+  "CountryCode": "PF",
+  "Country": "French Polynesia",
+  "Latitude": -15,
+  "Longitude": -140
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e06"
+  },
+  "CountryCode": "PG",
+  "Country": "Papua New Guinea",
+  "Latitude": -6,
+  "Longitude": 147
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e07"
+  },
+  "CountryCode": "PH",
+  "Country": "Philippines",
+  "Latitude": 13,
+  "Longitude": 122
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e08"
+  },
+  "CountryCode": "PK",
+  "Country": "Pakistan",
+  "Latitude": 30,
+  "Longitude": 70
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e09"
+  },
+  "CountryCode": "PL",
+  "Country": "Poland",
+  "Latitude": 52,
+  "Longitude": 20
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0a"
+  },
+  "CountryCode": "PM",
+  "Country": "Saint Pierre and Miquelon",
+  "Latitude": 46.83,
+  "Longitude": -56.33
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0b"
+  },
+  "CountryCode": "PR",
+  "Country": "Puerto Rico",
+  "Latitude": 18.25,
+  "Longitude": -66.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0c"
+  },
+  "CountryCode": "PS",
+  "Country": "Palestinian Territory",
+  "Latitude": 32,
+  "Longitude": 35.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0d"
+  },
+  "CountryCode": "PT",
+  "Country": "Portugal",
+  "Latitude": 39.5,
+  "Longitude": -8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0e"
+  },
+  "CountryCode": "PW",
+  "Country": "Palau",
+  "Latitude": 7.5,
+  "Longitude": 134.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e0f"
+  },
+  "CountryCode": "PY",
+  "Country": "Paraguay",
+  "Latitude": -23,
+  "Longitude": -58
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e10"
+  },
+  "CountryCode": "QA",
+  "Country": "Qatar",
+  "Latitude": 25.5,
+  "Longitude": 51.25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e11"
+  },
+  "CountryCode": "RE",
+  "Country": "Reunion",
+  "Latitude": -21.1,
+  "Longitude": 55.6
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e12"
+  },
+  "CountryCode": "RO",
+  "Country": "Romania",
+  "Latitude": 46,
+  "Longitude": 25
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e13"
+  },
+  "CountryCode": "RS",
+  "Country": "Serbia",
+  "Latitude": 44,
+  "Longitude": 21
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e14"
+  },
+  "CountryCode": "RU",
+  "Country": "Russia",
+  "Latitude": 60,
+  "Longitude": 100
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e15"
+  },
+  "CountryCode": "RW",
+  "Country": "Rwanda",
+  "Latitude": -2,
+  "Longitude": 30
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e16"
+  },
+  "CountryCode": "SA",
+  "Country": "Saudi Arabia",
+  "Latitude": 25,
+  "Longitude": 45
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e17"
+  },
+  "CountryCode": "SB",
+  "Country": "Solomon Islands",
+  "Latitude": -8,
+  "Longitude": 159
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e18"
+  },
+  "CountryCode": "SC",
+  "Country": "Seychelles",
+  "Latitude": -4.58,
+  "Longitude": 55.67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e19"
+  },
+  "CountryCode": "SD",
+  "Country": "Sudan",
+  "Latitude": 15,
+  "Longitude": 30
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1a"
+  },
+  "CountryCode": "SE",
+  "Country": "Sweden",
+  "Latitude": 62,
+  "Longitude": 15
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1b"
+  },
+  "CountryCode": "SG",
+  "Country": "Singapore",
+  "Latitude": 1.37,
+  "Longitude": 103.8
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1c"
+  },
+  "CountryCode": "SH",
+  "Country": "Saint Helena",
+  "Latitude": -15.93,
+  "Longitude": -5.7
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1d"
+  },
+  "CountryCode": "SI",
+  "Country": "Slovenia",
+  "Latitude": 46,
+  "Longitude": 15
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1e"
+  },
+  "CountryCode": "SJ",
+  "Country": "Svalbard and Jan Mayen",
+  "Latitude": 78,
+  "Longitude": 20
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e1f"
+  },
+  "CountryCode": "SK",
+  "Country": "Slovakia",
+  "Latitude": 48.67,
+  "Longitude": 19.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e20"
+  },
+  "CountryCode": "SL",
+  "Country": "Sierra Leone",
+  "Latitude": 8.5,
+  "Longitude": -11.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e21"
+  },
+  "CountryCode": "SM",
+  "Country": "San Marino",
+  "Latitude": 43.77,
+  "Longitude": 12.42
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e22"
+  },
+  "CountryCode": "SN",
+  "Country": "Senegal",
+  "Latitude": 14,
+  "Longitude": -14
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e23"
+  },
+  "CountryCode": "SO",
+  "Country": "Somalia",
+  "Latitude": 10,
+  "Longitude": 49
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e24"
+  },
+  "CountryCode": "SR",
+  "Country": "Suriname",
+  "Latitude": 4,
+  "Longitude": -56
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e25"
+  },
+  "CountryCode": "ST",
+  "Country": "Sao Tome and Principe",
+  "Latitude": 1,
+  "Longitude": 7
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e26"
+  },
+  "CountryCode": "SV",
+  "Country": "El Salvador",
+  "Latitude": 13.83,
+  "Longitude": -88.92
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e27"
+  },
+  "CountryCode": "SY",
+  "Country": "Syrian Arab Republic",
+  "Latitude": 35,
+  "Longitude": 38
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e28"
+  },
+  "CountryCode": "SZ",
+  "Country": "Swaziland",
+  "Latitude": -26.5,
+  "Longitude": 31.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e29"
+  },
+  "CountryCode": "TC",
+  "Country": "Turks and Caicos Islands",
+  "Latitude": 21.75,
+  "Longitude": -71.58
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2a"
+  },
+  "CountryCode": "TD",
+  "Country": "Chad",
+  "Latitude": 15,
+  "Longitude": 19
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2b"
+  },
+  "CountryCode": "TF",
+  "Country": "French Southern Territories",
+  "Latitude": -43,
+  "Longitude": 67
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2c"
+  },
+  "CountryCode": "TG",
+  "Country": "Togo",
+  "Latitude": 8,
+  "Longitude": 1.17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2d"
+  },
+  "CountryCode": "TH",
+  "Country": "Thailand",
+  "Latitude": 15,
+  "Longitude": 100
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2e"
+  },
+  "CountryCode": "TJ",
+  "Country": "Tajikistan",
+  "Latitude": 39,
+  "Longitude": 71
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e2f"
+  },
+  "CountryCode": "TK",
+  "Country": "Tokelau",
+  "Latitude": -9,
+  "Longitude": -172
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e30"
+  },
+  "CountryCode": "TM",
+  "Country": "Turkmenistan",
+  "Latitude": 40,
+  "Longitude": 60
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e31"
+  },
+  "CountryCode": "TN",
+  "Country": "Tunisia",
+  "Latitude": 34,
+  "Longitude": 9
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e32"
+  },
+  "CountryCode": "TO",
+  "Country": "Tonga",
+  "Latitude": -20,
+  "Longitude": -175
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e33"
+  },
+  "CountryCode": "TR",
+  "Country": "Turkey",
+  "Latitude": 39,
+  "Longitude": 35
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e34"
+  },
+  "CountryCode": "TT",
+  "Country": "Trinidad and Tobago",
+  "Latitude": 11,
+  "Longitude": -61
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e35"
+  },
+  "CountryCode": "TV",
+  "Country": "Tuvalu",
+  "Latitude": -8,
+  "Longitude": 178
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e36"
+  },
+  "CountryCode": "TW",
+  "Country": "Taiwan",
+  "Latitude": 23.5,
+  "Longitude": 121
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e37"
+  },
+  "CountryCode": "TZ",
+  "Country": "Tanzania, United Republic of",
+  "Latitude": -6,
+  "Longitude": 35
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e38"
+  },
+  "CountryCode": "UA",
+  "Country": "Ukraine",
+  "Latitude": 49,
+  "Longitude": 32
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e39"
+  },
+  "CountryCode": "UG",
+  "Country": "Uganda",
+  "Latitude": 1,
+  "Longitude": 32
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3a"
+  },
+  "CountryCode": "UM",
+  "Country": "United States Minor Outlying Islands",
+  "Latitude": 19.28,
+  "Longitude": 166.6
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3b"
+  },
+  "CountryCode": "US",
+  "Country": "USA",
+  "Latitude": 38,
+  "Longitude": -97
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3c"
+  },
+  "CountryCode": "UY",
+  "Country": "Uruguay",
+  "Latitude": -33,
+  "Longitude": -56
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3d"
+  },
+  "CountryCode": "UZ",
+  "Country": "Uzbekistan",
+  "Latitude": 41,
+  "Longitude": 64
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3e"
+  },
+  "CountryCode": "VA",
+  "Country": "Holy See (Vatican City State)",
+  "Latitude": 41.9,
+  "Longitude": 12.45
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e3f"
+  },
+  "CountryCode": "VC",
+  "Country": "Saint Vincent and the Grenadines",
+  "Latitude": 13.25,
+  "Longitude": -61.2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e40"
+  },
+  "CountryCode": "VE",
+  "Country": "Venezuela",
+  "Latitude": 8,
+  "Longitude": -66
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e41"
+  },
+  "CountryCode": "VG",
+  "Country": "Virgin Islands, British",
+  "Latitude": 18.5,
+  "Longitude": -64.5
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e42"
+  },
+  "CountryCode": "VI",
+  "Country": "Virgin Islands, U.S.",
+  "Latitude": 18.33,
+  "Longitude": -64.83
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e43"
+  },
+  "CountryCode": "VN",
+  "Country": "Vietnam",
+  "Latitude": 16,
+  "Longitude": 106
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e44"
+  },
+  "CountryCode": "VU",
+  "Country": "Vanuatu",
+  "Latitude": -16,
+  "Longitude": 167
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e45"
+  },
+  "CountryCode": "WF",
+  "Country": "Wallis and Futuna",
+  "Latitude": -13.3,
+  "Longitude": -176.2
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e46"
+  },
+  "CountryCode": "WS",
+  "Country": "Samoa",
+  "Latitude": -13.58,
+  "Longitude": -172.33
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e47"
+  },
+  "CountryCode": "YE",
+  "Country": "Yemen",
+  "Latitude": 15,
+  "Longitude": 48
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e48"
+  },
+  "CountryCode": "YT",
+  "Country": "Mayotte",
+  "Latitude": -12.83,
+  "Longitude": 45.17
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e49"
+  },
+  "CountryCode": "ZA",
+  "Country": "South Africa",
+  "Latitude": -29,
+  "Longitude": 24
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e4a"
+  },
+  "CountryCode": "ZM",
+  "Country": "Zambia",
+  "Latitude": -15,
+  "Longitude": 30
+},{
+  "_id": {
+    "$oid": "649882b7d75c5624f2130e4b"
+  },
+  "CountryCode": "ZW",
+  "Country": "Zimbabwe",
+  "Latitude": -20,
+  "Longitude": 30
+}]
