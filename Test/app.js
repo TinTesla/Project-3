@@ -27,11 +27,11 @@ function createBubbleChart(data, selectedGenre) {
 
     const bubbleData = [{
         x: filteredData.map(entry => entry.Bpm),
-        y: filteredData.map(entry => entry.Valence), // Corrected property name
+        y: filteredData.map(entry => entry.Valence), 
         text: filteredData.map(entry => entry.Title),
         mode: "markers",
         marker: {
-            size: filteredData.map(entry => entry["Duration (in seconds)"])/1,
+            size: filteredData.map(entry => entry["Duration (in seconds)"]/10),
             color: filteredData.map(entry => getYearColor(entry.Year)),
             colorscale: "Rainbow"
         }
@@ -39,7 +39,7 @@ function createBubbleChart(data, selectedGenre) {
 
     const bubbleLayout = {
         xaxis: { title: "Bpm" },
-        yaxis: { title: "Valence" } // Corrected axis label
+        yaxis: { title: "Valence" }
     };
 
     Plotly.newPlot("bubble", bubbleData, bubbleLayout);
