@@ -112,6 +112,9 @@ function createChoroplethMap(countryData, selectedGenre) {
     geo: {
       showframe: false,
       showcoastlines: false,
+      showcountries: true,
+      countrycolor: "gray",
+      countrywidth: 0.5,
       projection: {
         type: "natural earth",
       },
