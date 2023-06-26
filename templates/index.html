@@ -15,6 +15,9 @@
   <script>var mapdata = {{tableData|tojson}};
           var Year_song_char = {{Year_song_char|tojson}};
           var Year_metrics = {{Year_metrics|tojson}};
+          var TopGenres = {{TopGenres|tojson}};
+          var UniqueGenres = {{UniqueGenres|tojson}};
+          var CountriesbyGenre = {{CountriesbyGenre|tojson}};
  </script>
 </head>
 <body>
@@ -22,23 +25,89 @@
 <div class="container-fluid fill">
   <div class="row">
     <div class="col-md-2 bg-dark">
-      <img class="img-fluid p-4" src="/static/images/musical.png"/>
+      <img class="img-fluid p-4" src="https://img.icons8.com/color/128/music-transcript.png"/>
         <ul class="nav nav-pills flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Lorem Ipsum</a>
+            <a class="nav-link active" href="/Songs">Songs 2000-2023</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Lorem Ipsum</a>
+            <div class="span-div">
+            <span class="nav-link-span">Yearly Song Statistics</span>
+            </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Lorem Ipsum</a>
+            <a class="nav-link" href="/Year/2023">2023</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Lorem Ipsum</a>
+            <a class="nav-link" href="/Year/2022">2022</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Lorem Ipsum</a>
+            <a class="nav-link" href="/Year/2021">2021</a>
           </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2020">2020</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2019">2019</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2018">2018</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2017">2017</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2016">2016</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2015">2015</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2014">2014</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2013">2013</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2012">2012</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2011">2011</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2010">2010</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2009">2009</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2008">2008</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2007">2007</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2006">2006</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2005">2005</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2004">2004</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2003">2003</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2002">2002</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2001">2001</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2000">2000</a>
+          </li>
+
        </ul>
       </div>
     
@@ -48,7 +117,7 @@
 
       <div class="col-md-12">
       <div class="banner">
-        <h2>Spotify Music Dashboard Year 2000-2023</h2>
+        <span>Spotify Music Dashboard Year 2000-2023</span><img width="32" src="https://img.icons8.com/arcade/48/spotify.png"><a href="/Timeline" class="btn btn-info">View Timeline</a>
 
       </div>
 
@@ -56,16 +125,7 @@
 
       </div>
       <!-- Progress Bars -->
-    <div id="Available_genres">
-      <ul id="genrelist" class="genrelist">
-        {% for row in genres %}
-        <li>
-          <a href="#" data-genre="{{row['Most Popular Genre']}}" class="btn btn-primary">{{row['Most Popular Genre']}}</a>
-        </li>
-        {% endfor %}
-      </ul>
 
-    </div>
     <div class="popularity_div">
       <ul class='slider' id="popularity">
         {% for row in Year_bin %}
@@ -77,8 +137,10 @@
                        <ul class="popular_songlist">
                   {% for songitem in row['Song'] %}
                     <li>
-                    <a href="#"><img width=24px src="{{songitem['GenreIcon']}}"><span>{{songitem['Title']}}</span></a>
-                    <span>{{songitem['Artist']}}</span> | <span>{{songitem['Genre']}}</span>
+                    <div>
+                      <span>{{songitem['Title']}} </span><img width=24px src="{{songitem['GenreIcon']}}">
+                    </div>
+                    <a href="/Artist/{{songitem['Artist_ID']}}"><span>{{songitem['Artist']}}</span></a> | <span>{{songitem['Genre']}}</span>
                     </li>
                   {% endfor %}
                   </ul>
@@ -97,33 +159,30 @@
             {% endfor %}
       </ul>
     </div>
-    <div class="apptable" style="height:520px;overflow-y:scroll">
+    <div class="apptable" style="height:750px;overflow-y:scroll">
+      <div class="selectdiv">
+      <span class="selectheader">Explore by Genre Popularity</span>
+      <select class="genrerankselector" id="genreselector" onchange="explorebyGenrePopularity()">
+        <option selected value="Most Popular"> <span style="color: yellow;">&#x2605;&#x2605;&#x2605;</span> Most Popular</option>
+        <option value="Second Most Popular"><span style="color: yellow;">&#x2605;&#x2605;</span>  Second Most Popular</option>
+        <option value="Third Most Popular"><span style="color: yellow;">&#x2605;</span> Third Most Popular</option>
+      </select>
+       <div id="Available_genres">
+
+      <ul id="genrelist" class="genrelist">
+        {% for row in UniqueGenres %}
+        <li>
+          <a class="genrelink" href="#" data-genre="{{row['Genre']}}" ><img src="{{row['GenreIcon']}}" width=32 >{{row['Genre']}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+         <a href="#" id="reset" >Clear filters on Genre</a>
+
+    </div>
+      </div>
       <div class="appMap" id="map"></div>
      </div>
-    <!-- Tables -->
-     <div class="card-deck p-5">
-        <div class="card bg-warning text-white">
-          <div class="card-header">Lorem Ipsum</div>
-            <div class="card-body">
-            <h4 class="card-title">Praesent convallis</h4>
-            <p clas="card-text">This is a wider card with supporting text below</p>
-          </div>
-        </div>
-        <div class="card bg-success text-white">
-          <div class="card-header">Lorem Ipsum</div>
-            <div class="card-body">
-            <h4 class="card-title">Praesent convallis</h4>
-            <p clas="card-text">This is a wider card with supporting text below</p>
-          </div>
-        </div>
-        <div class="card bg-primary text-white">
-          <div class="card-header">Lorem Ipsum</div>
-            <div class="card-body">
-            <h4 class="card-title">Praesent convallis</h4>
-            <p clas="card-text">This is a wider card with supporting text below</p>
-          </div>
-        </div>
-        </div>
+
 
 </div>
 </div>
