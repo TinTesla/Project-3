@@ -1,0 +1,23 @@
+
+/*$(mapdata).each(function(i,data){
+var countryname = data['Country'];
+var countrycode = data['CountryCode'];
+var popularGenre = data['Most Popular Genre'];
+var genreIcon = data['GenreIcon'];
+var lat = data['latitude'];
+var lng = data['longitude'];
+var countryurl = "/static/images/flags/"+countrycode+".png"
+console.log(countryurl)
+
+var mapIcon = L.icon({
+    iconUrl: genreIcon,
+    iconSize: [24, 24]
+});
+
+var marker = L.marker([lat, lng], {icon: mapIcon});
+marker.addTo(map);
+marker.bindTooltip('<p><img style="padding:2px" src='+countryurl+' width="40"  height="30"><b>Country: </b>'+countryname + "</p><hr/><p><b>Popular Genre: </b>"+popularGenre+"</p>");
+
+map_markers[popularGenre] = marker;
+
+})*/

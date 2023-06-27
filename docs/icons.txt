@@ -1,0 +1,57 @@
+
+
+Rock/metal
+<img width="24" height="24" src="https://img.icons8.com/3d-fluency/24/rock-music.png" alt="rock-music"/>
+
+hip/hop
+
+<img width="24" height="24" src="https://img.icons8.com/color-glass/24/hip-hop-music--v2.png" alt="hip-hop-music--v2"/>
+
+EDM
+<img width="24" height="24" src="https://img.icons8.com/arcade/24/electronic-music.png" alt="electronic-music"/>
+
+Pop
+<img width="24" height="24" src="https://img.icons8.com/arcade/24/musical-stories.png" alt="musical-stories"/>
+
+reggae
+<img width="24" height="24" src="https://img.icons8.com/external-flaticons-flat-flat-icons/24/external-reggae-music-festival-flaticons-flat-flat-icons.png" alt="external-reggae-music-festival-flaticons-flat-flat-icons"/>
+
+other
+<img width="24" height="24" src="https://img.icons8.com/arcade/24/loudspeaker.png" alt="loudspeaker"/>
+
+<img width="24" height="24" src="https://img.icons8.com/color/24/international-music.png" alt="international-music"/>
+
+
+<img width="24" height="24" src="https://img.icons8.com/external-anggara-filled-outline-anggara-putra/24/external-artist-media-anggara-filled-outline-anggara-putra.png" alt="external-artist-media-anggara-filled-outline-anggara-putra"/>
+
+
+Main dashboard: 
+
+<img width="64" height="64" src="https://img.icons8.com/matisse/64/listening-to-music-on-headphones.png" alt="listening-to-music-on-headphones"/>
+
+
+Year -
+
+<img width="24" height="24" src="https://img.icons8.com/external-flaticons-flat-flat-icons/24/external-yearly-moving-and-storage-flaticons-flat-flat-icons-2.png" alt="external-yearly-moving-and-storage-flaticons-flat-flat-icons-2"/>
+
+Side bar: 
+
+<img width="48" height="48" src="https://img.icons8.com/nolan/48/playlist.png" alt="playlist"/>
+
+
+
+
+artist_id='4524518717075603732'
+
+regression-js
+
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/spotify.png" alt="spotify"/>
+
+<img width="64" height="64" src="https://img.icons8.com/color/64/music-transcript.png" alt="music-transcript"/>
+
+<img width="48" height="48" src="https://img.icons8.com/arcade/48/spotify.png" alt="spotify"/>
+
+
+
+
+

@@ -1,0 +1,1986 @@
+[
+    {
+        "GenreRank": 1.0,
+        "Ranktext": "Most Popular",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "country": "australia",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "country": "canada",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "country": "china",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "country": "india",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "country": "mexico",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 60.0,
+                "lng": 100.0,
+                "countrycode": "RU",
+                "country": "russia",
+                "countryiconURL": "/static/images/flags/RU.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "country": "usa",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "country": "colombia",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "country": "france",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "country": "italy",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "country": "japan",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "country": "spain",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "country": "united_kingdom",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "country": "puerto_rico",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 37.0,
+                "lng": 127.5,
+                "countrycode": "KR",
+                "country": "south_korea",
+                "countryiconURL": "/static/images/flags/KR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "country": "taiwan",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "country": "ukraine",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "country": "dominican_republic",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "country": "peru",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "country": "thailand",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "country": "turkey",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "country": "venezuela",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "country": "denmark",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "country": "egypt",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "country": "hong_kong",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "country": "ireland",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "country": "morocco",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "country": "netherlands",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "country": "norway",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "country": "portugal",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "country": "vietnam",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "country": "bolivia",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "country": "bulgaria",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "country": "costa_rica",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "country": "ecuador",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "country": "el_salvador",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "country": "greece",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "country": "guatemala",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "country": "honduras",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "country": "malaysia",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "country": "panama",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "country": "poland",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "country": "sweden",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "country": "finland",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "country": "hungary",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "country": "iceland",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "country": "lithuania",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "country": "new_zealand",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "country": "nicaragua",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "country": "romania",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "country": "singapore",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "country": "south_africa",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "country": "switzerland",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "country": "uruguay",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "country": "czech_republic",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "country": "mongolia",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "country": "pakistan",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "country": "saudi_arabia",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "country": "brazil",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            }
+        ]
+    },
+    {
+        "GenreRank": 1.5,
+        "Ranktext": "",
+        "Location": [
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "country": "chile",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "country": "chile",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "country": "austria",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "country": "austria",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            }
+        ]
+    },
+    {
+        "GenreRank": 2.0,
+        "Ranktext": "Second Most Popular",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "country": "australia",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "country": "canada",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "country": "china",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "country": "india",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "country": "mexico",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 60.0,
+                "lng": 100.0,
+                "countrycode": "RU",
+                "country": "russia",
+                "countryiconURL": "/static/images/flags/RU.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "country": "usa",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "country": "colombia",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "country": "france",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "country": "italy",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "country": "japan",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "country": "spain",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "country": "united_kingdom",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "country": "puerto_rico",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 37.0,
+                "lng": 127.5,
+                "countrycode": "KR",
+                "country": "south_korea",
+                "countryiconURL": "/static/images/flags/KR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "country": "taiwan",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "country": "ukraine",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "country": "dominican_republic",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "country": "peru",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "country": "thailand",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "country": "turkey",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "country": "venezuela",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "country": "denmark",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "country": "egypt",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "country": "hong_kong",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "country": "ireland",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "country": "morocco",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "country": "netherlands",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "country": "norway",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "country": "portugal",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "country": "bolivia",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "country": "bulgaria",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "country": "costa_rica",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "country": "ecuador",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "country": "el_salvador",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "country": "guatemala",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "country": "honduras",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "country": "malaysia",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "country": "panama",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "country": "poland",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "country": "sweden",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "country": "finland",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "country": "hungary",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "country": "iceland",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "country": "lithuania",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "country": "new_zealand",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "country": "nicaragua",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "country": "romania",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "country": "singapore",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "country": "south_africa",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "country": "switzerland",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "country": "uruguay",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "country": "czech_republic",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "country": "mongolia",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "country": "pakistan",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "country": "saudi_arabia",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "country": "brazil",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            }
+        ]
+    },
+    {
+        "GenreRank": 2.5,
+        "Ranktext": "",
+        "Location": [
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "country": "vietnam",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "country": "vietnam",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "country": "greece",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "country": "greece",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            }
+        ]
+    },
+    {
+        "GenreRank": 3.0,
+        "Ranktext": "Third Most Popular",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "country": "australia",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "country": "canada",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "country": "china",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "country": "india",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "country": "mexico",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "country": "usa",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genre": "Latin/Reggaeton",
+                "genreIcon": "/static/images/reggae.png"
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "country": "colombia",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "country": "france",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "country": "italy",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "country": "japan",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "country": "spain",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "country": "united_kingdom",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "country": "puerto_rico",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "country": "argentina",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "country": "germany",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "country": "israel",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "country": "paraguay",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "country": "taiwan",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "country": "ukraine",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "country": "chile",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "country": "dominican_republic",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "country": "peru",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "country": "thailand",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "country": "turkey",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "country": "venezuela",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "country": "denmark",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "country": "egypt",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "country": "hong_kong",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "country": "ireland",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "country": "morocco",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "country": "netherlands",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "country": "norway",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "country": "portugal",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "country": "bolivia",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "country": "bulgaria",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "country": "costa_rica",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "country": "ecuador",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "country": "el_salvador",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "country": "guatemala",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "country": "honduras",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "country": "malaysia",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "country": "panama",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "country": "poland",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "country": "sweden",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "country": "austria",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "country": "finland",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "country": "hungary",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "country": "iceland",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "country": "lithuania",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "country": "new_zealand",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "country": "nicaragua",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "country": "romania",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "country": "singapore",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "country": "south_africa",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "country": "switzerland",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "country": "uruguay",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genre": "Pop",
+                "genreIcon": "/static/images/pop.png"
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "country": "czech_republic",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genre": "EDM",
+                "genreIcon": "/static/images/EDM.png"
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "country": "indonesia",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "country": "mongolia",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "country": "pakistan",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "country": "philippines",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genre": "Other",
+                "genreIcon": "/static/images/othergenres.png"
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "country": "saudi_arabia",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genre": "Rock/Metal",
+                "genreIcon": "/static/images/rock-music.png"
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "country": "brazil",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genre": "Hip hop/Rap/R&b",
+                "genreIcon": "/static/images/hiphop.png"
+            }
+        ]
+    }
+]
+ 
