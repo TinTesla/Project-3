@@ -1,0 +1,2178 @@
+
+[
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 31,
+        "GenreRank": 2.0,
+        "CountryName": "australia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -27.0,
+        "longitude": 133.0,
+        "CountryCode": "AU"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 65,
+        "GenreRank": 1.0,
+        "CountryName": "australia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -27.0,
+        "longitude": 133.0,
+        "CountryCode": "AU"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "australia",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": -27.0,
+        "longitude": 133.0,
+        "CountryCode": "AU"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 39,
+        "GenreRank": 2.0,
+        "CountryName": "canada",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 60.0,
+        "longitude": -95.0,
+        "CountryCode": "CA"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 64,
+        "GenreRank": 1.0,
+        "CountryName": "canada",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 60.0,
+        "longitude": -95.0,
+        "CountryCode": "CA"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 14,
+        "GenreRank": 3.0,
+        "CountryName": "canada",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": 60.0,
+        "longitude": -95.0,
+        "CountryCode": "CA"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 23,
+        "GenreRank": 2.0,
+        "CountryName": "china",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 35.0,
+        "longitude": 105.0,
+        "CountryCode": "CN"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 108,
+        "GenreRank": 1.0,
+        "CountryName": "china",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 35.0,
+        "longitude": 105.0,
+        "CountryCode": "CN"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 21,
+        "GenreRank": 3.0,
+        "CountryName": "china",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 35.0,
+        "longitude": 105.0,
+        "CountryCode": "CN"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "india",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 20.0,
+        "longitude": 77.0,
+        "CountryCode": "IN"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 39,
+        "GenreRank": 2.0,
+        "CountryName": "india",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 20.0,
+        "longitude": 77.0,
+        "CountryCode": "IN"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 55,
+        "GenreRank": 1.0,
+        "CountryName": "india",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 20.0,
+        "longitude": 77.0,
+        "CountryCode": "IN"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 38,
+        "GenreRank": 3.0,
+        "CountryName": "mexico",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 23.0,
+        "longitude": -102.0,
+        "CountryCode": "MX"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 57,
+        "GenreRank": 1.0,
+        "CountryName": "mexico",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 23.0,
+        "longitude": -102.0,
+        "CountryCode": "MX"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 43,
+        "GenreRank": 2.0,
+        "CountryName": "mexico",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 23.0,
+        "longitude": -102.0,
+        "CountryCode": "MX"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 27,
+        "GenreRank": 2.0,
+        "CountryName": "russia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 60.0,
+        "longitude": 100.0,
+        "CountryCode": "RU"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 48,
+        "GenreRank": 1.0,
+        "CountryName": "russia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 60.0,
+        "longitude": 100.0,
+        "CountryCode": "RU"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 49,
+        "GenreRank": 1.0,
+        "CountryName": "usa",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 38.0,
+        "longitude": -97.0,
+        "CountryCode": "US"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 33,
+        "GenreRank": 2.0,
+        "CountryName": "usa",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 38.0,
+        "longitude": -97.0,
+        "CountryCode": "US"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 19,
+        "GenreRank": 3.0,
+        "CountryName": "usa",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 38.0,
+        "longitude": -97.0,
+        "CountryCode": "US"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 50,
+        "GenreRank": 2.0,
+        "CountryName": "colombia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 4.0,
+        "longitude": -72.0,
+        "CountryCode": "CO"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "colombia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 4.0,
+        "longitude": -72.0,
+        "CountryCode": "CO"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 86,
+        "GenreRank": 1.0,
+        "CountryName": "colombia",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 4.0,
+        "longitude": -72.0,
+        "CountryCode": "CO"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 47,
+        "GenreRank": 2.0,
+        "CountryName": "france",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 46.0,
+        "longitude": 2.0,
+        "CountryCode": "FR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 50,
+        "GenreRank": 1.0,
+        "CountryName": "france",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 46.0,
+        "longitude": 2.0,
+        "CountryCode": "FR"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "france",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 46.0,
+        "longitude": 2.0,
+        "CountryCode": "FR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 47,
+        "GenreRank": 1.0,
+        "CountryName": "italy",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 42.83,
+        "longitude": 12.83,
+        "CountryCode": "IT"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 35,
+        "GenreRank": 2.0,
+        "CountryName": "italy",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 42.83,
+        "longitude": 12.83,
+        "CountryCode": "IT"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 9,
+        "GenreRank": 3.0,
+        "CountryName": "italy",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 42.83,
+        "longitude": 12.83,
+        "CountryCode": "IT"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 63,
+        "GenreRank": 1.0,
+        "CountryName": "japan",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 36.0,
+        "longitude": 138.0,
+        "CountryCode": "JP"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 16,
+        "GenreRank": 3.0,
+        "CountryName": "japan",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": 36.0,
+        "longitude": 138.0,
+        "CountryCode": "JP"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 17,
+        "GenreRank": 2.0,
+        "CountryName": "japan",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 36.0,
+        "longitude": 138.0,
+        "CountryCode": "JP"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 21,
+        "GenreRank": 2.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 35,
+        "GenreRank": 1.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 3.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 54,
+        "GenreRank": 1.0,
+        "CountryName": "spain",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 40.0,
+        "longitude": -4.0,
+        "CountryCode": "ES"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "spain",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 40.0,
+        "longitude": -4.0,
+        "CountryCode": "ES"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 38,
+        "GenreRank": 2.0,
+        "CountryName": "spain",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 40.0,
+        "longitude": -4.0,
+        "CountryCode": "ES"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 30,
+        "GenreRank": 2.0,
+        "CountryName": "united_kingdom",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 54.0,
+        "longitude": -2.0,
+        "CountryCode": "GB"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "united_kingdom",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 54.0,
+        "longitude": -2.0,
+        "CountryCode": "GB"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 71,
+        "GenreRank": 1.0,
+        "CountryName": "united_kingdom",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 54.0,
+        "longitude": -2.0,
+        "CountryCode": "GB"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 158,
+        "GenreRank": 2.0,
+        "CountryName": "puerto_rico",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 18.25,
+        "longitude": -66.5,
+        "CountryCode": "PR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 40,
+        "GenreRank": 3.0,
+        "CountryName": "puerto_rico",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 18.25,
+        "longitude": -66.5,
+        "CountryCode": "PR"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 219,
+        "GenreRank": 1.0,
+        "CountryName": "puerto_rico",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 18.25,
+        "longitude": -66.5,
+        "CountryCode": "PR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 59,
+        "GenreRank": 1.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 29,
+        "GenreRank": 3.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 32,
+        "GenreRank": 2.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 41,
+        "GenreRank": 1.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 18,
+        "GenreRank": 3.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 33,
+        "GenreRank": 2.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 11,
+        "GenreRank": 2.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 25,
+        "GenreRank": 1.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 8,
+        "GenreRank": 3.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 55,
+        "GenreRank": 2.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 66,
+        "GenreRank": 1.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 59,
+        "GenreRank": 1.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 29,
+        "GenreRank": 3.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 32,
+        "GenreRank": 2.0,
+        "CountryName": "argentina",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -34.0,
+        "longitude": -64.0,
+        "CountryCode": "AR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 41,
+        "GenreRank": 1.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 18,
+        "GenreRank": 3.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 33,
+        "GenreRank": 2.0,
+        "CountryName": "germany",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 51.0,
+        "longitude": 9.0,
+        "CountryCode": "DE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 11,
+        "GenreRank": 2.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 25,
+        "GenreRank": 1.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 8,
+        "GenreRank": 3.0,
+        "CountryName": "israel",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 31.5,
+        "longitude": 34.75,
+        "CountryCode": "IL"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 55,
+        "GenreRank": 2.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 66,
+        "GenreRank": 1.0,
+        "CountryName": "paraguay",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -23.0,
+        "longitude": -58.0,
+        "CountryCode": "PY"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 11,
+        "GenreRank": 2.0,
+        "CountryName": "south_korea",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 37.0,
+        "longitude": 127.5,
+        "CountryCode": "KR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 35,
+        "GenreRank": 1.0,
+        "CountryName": "south_korea",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 37.0,
+        "longitude": 127.5,
+        "CountryCode": "KR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 3,
+        "GenreRank": 3.0,
+        "CountryName": "taiwan",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 23.5,
+        "longitude": 121.0,
+        "CountryCode": "TW"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 60,
+        "GenreRank": 1.0,
+        "CountryName": "taiwan",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 23.5,
+        "longitude": 121.0,
+        "CountryCode": "TW"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 21,
+        "GenreRank": 2.0,
+        "CountryName": "taiwan",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 23.5,
+        "longitude": 121.0,
+        "CountryCode": "TW"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 23,
+        "GenreRank": 2.0,
+        "CountryName": "ukraine",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 49.0,
+        "longitude": 32.0,
+        "CountryCode": "UA"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 26,
+        "GenreRank": 1.0,
+        "CountryName": "ukraine",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 49.0,
+        "longitude": 32.0,
+        "CountryCode": "UA"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 15,
+        "GenreRank": 3.0,
+        "CountryName": "ukraine",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 49.0,
+        "longitude": 32.0,
+        "CountryCode": "UA"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 46,
+        "GenreRank": 1.5,
+        "CountryName": "chile",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -30.0,
+        "longitude": -71.0,
+        "CountryCode": "CL"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 46,
+        "GenreRank": 1.5,
+        "CountryName": "chile",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -30.0,
+        "longitude": -71.0,
+        "CountryCode": "CL"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 31,
+        "GenreRank": 3.0,
+        "CountryName": "chile",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": -30.0,
+        "longitude": -71.0,
+        "CountryCode": "CL"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 53,
+        "GenreRank": 2.0,
+        "CountryName": "dominican_republic",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 19.0,
+        "longitude": -70.67,
+        "CountryCode": "DO"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 13,
+        "GenreRank": 3.0,
+        "CountryName": "dominican_republic",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 19.0,
+        "longitude": -70.67,
+        "CountryCode": "DO"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 83,
+        "GenreRank": 1.0,
+        "CountryName": "dominican_republic",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 19.0,
+        "longitude": -70.67,
+        "CountryCode": "DO"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 5,
+        "GenreRank": 3.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 32,
+        "GenreRank": 1.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 2.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 52,
+        "GenreRank": 2.0,
+        "CountryName": "peru",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -10.0,
+        "longitude": -76.0,
+        "CountryCode": "PE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "peru",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -10.0,
+        "longitude": -76.0,
+        "CountryCode": "PE"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 72,
+        "GenreRank": 1.0,
+        "CountryName": "peru",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -10.0,
+        "longitude": -76.0,
+        "CountryCode": "PE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 7,
+        "GenreRank": 2.0,
+        "CountryName": "thailand",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 15.0,
+        "longitude": 100.0,
+        "CountryCode": "TH"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 38,
+        "GenreRank": 1.0,
+        "CountryName": "thailand",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 15.0,
+        "longitude": 100.0,
+        "CountryCode": "TH"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 4,
+        "GenreRank": 3.0,
+        "CountryName": "thailand",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": 15.0,
+        "longitude": 100.0,
+        "CountryCode": "TH"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 26,
+        "GenreRank": 1.0,
+        "CountryName": "turkey",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 39.0,
+        "longitude": 35.0,
+        "CountryCode": "TR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 8,
+        "GenreRank": 2.0,
+        "CountryName": "turkey",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 39.0,
+        "longitude": 35.0,
+        "CountryCode": "TR"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 7,
+        "GenreRank": 3.0,
+        "CountryName": "turkey",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 39.0,
+        "longitude": 35.0,
+        "CountryCode": "TR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 45,
+        "GenreRank": 2.0,
+        "CountryName": "venezuela",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 8.0,
+        "longitude": -66.0,
+        "CountryCode": "VE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "venezuela",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 8.0,
+        "longitude": -66.0,
+        "CountryCode": "VE"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 63,
+        "GenreRank": 1.0,
+        "CountryName": "venezuela",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 8.0,
+        "longitude": -66.0,
+        "CountryCode": "VE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 16,
+        "GenreRank": 2.0,
+        "CountryName": "denmark",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 56.0,
+        "longitude": 10.0,
+        "CountryCode": "DK"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 8,
+        "GenreRank": 3.0,
+        "CountryName": "denmark",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 56.0,
+        "longitude": 10.0,
+        "CountryCode": "DK"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 36,
+        "GenreRank": 1.0,
+        "CountryName": "denmark",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 56.0,
+        "longitude": 10.0,
+        "CountryCode": "DK"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 52,
+        "GenreRank": 1.0,
+        "CountryName": "egypt",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 27.0,
+        "longitude": 30.0,
+        "CountryCode": "EG"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 26,
+        "GenreRank": 2.0,
+        "CountryName": "egypt",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 27.0,
+        "longitude": 30.0,
+        "CountryCode": "EG"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 6,
+        "GenreRank": 3.0,
+        "CountryName": "egypt",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 27.0,
+        "longitude": 30.0,
+        "CountryCode": "EG"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 2,
+        "GenreRank": 3.0,
+        "CountryName": "hong_kong",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 22.25,
+        "longitude": 114.17,
+        "CountryCode": "HK"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 74,
+        "GenreRank": 1.0,
+        "CountryName": "hong_kong",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 22.25,
+        "longitude": 114.17,
+        "CountryCode": "HK"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 4,
+        "GenreRank": 2.0,
+        "CountryName": "hong_kong",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 22.25,
+        "longitude": 114.17,
+        "CountryCode": "HK"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 24,
+        "GenreRank": 3.0,
+        "CountryName": "ireland",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 53.0,
+        "longitude": -8.0,
+        "CountryCode": "IE"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 31,
+        "GenreRank": 2.0,
+        "CountryName": "ireland",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 53.0,
+        "longitude": -8.0,
+        "CountryCode": "IE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 79,
+        "GenreRank": 1.0,
+        "CountryName": "ireland",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 53.0,
+        "longitude": -8.0,
+        "CountryCode": "IE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 52,
+        "GenreRank": 1.0,
+        "CountryName": "morocco",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 32.0,
+        "longitude": -5.0,
+        "CountryCode": "MA"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 40,
+        "GenreRank": 2.0,
+        "CountryName": "morocco",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 32.0,
+        "longitude": -5.0,
+        "CountryCode": "MA"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 16,
+        "GenreRank": 3.0,
+        "CountryName": "morocco",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 32.0,
+        "longitude": -5.0,
+        "CountryCode": "MA"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 13,
+        "GenreRank": 3.0,
+        "CountryName": "netherlands",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 52.5,
+        "longitude": 5.75,
+        "CountryCode": "NL"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 39,
+        "GenreRank": 2.0,
+        "CountryName": "netherlands",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 52.5,
+        "longitude": 5.75,
+        "CountryCode": "NL"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 63,
+        "GenreRank": 1.0,
+        "CountryName": "netherlands",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 52.5,
+        "longitude": 5.75,
+        "CountryCode": "NL"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 13,
+        "GenreRank": 3.0,
+        "CountryName": "norway",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 62.0,
+        "longitude": 10.0,
+        "CountryCode": "NO"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 18,
+        "GenreRank": 2.0,
+        "CountryName": "norway",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 62.0,
+        "longitude": 10.0,
+        "CountryCode": "NO"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 44,
+        "GenreRank": 1.0,
+        "CountryName": "norway",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 62.0,
+        "longitude": 10.0,
+        "CountryCode": "NO"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 13,
+        "GenreRank": 3.0,
+        "CountryName": "portugal",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 39.5,
+        "longitude": -8.0,
+        "CountryCode": "PT"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 28,
+        "GenreRank": 2.0,
+        "CountryName": "portugal",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 39.5,
+        "longitude": -8.0,
+        "CountryCode": "PT"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 46,
+        "GenreRank": 1.0,
+        "CountryName": "portugal",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 39.5,
+        "longitude": -8.0,
+        "CountryCode": "PT"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 19,
+        "GenreRank": 2.5,
+        "CountryName": "vietnam",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 16.0,
+        "longitude": 106.0,
+        "CountryCode": "VN"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 35,
+        "GenreRank": 1.0,
+        "CountryName": "vietnam",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 16.0,
+        "longitude": 106.0,
+        "CountryCode": "VN"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 2.5,
+        "CountryName": "vietnam",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 16.0,
+        "longitude": 106.0,
+        "CountryCode": "VN"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 51,
+        "GenreRank": 2.0,
+        "CountryName": "bolivia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -17.0,
+        "longitude": -65.0,
+        "CountryCode": "BO"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 29,
+        "GenreRank": 3.0,
+        "CountryName": "bolivia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -17.0,
+        "longitude": -65.0,
+        "CountryCode": "BO"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 72,
+        "GenreRank": 1.0,
+        "CountryName": "bolivia",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -17.0,
+        "longitude": -65.0,
+        "CountryCode": "BO"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 30,
+        "GenreRank": 2.0,
+        "CountryName": "bulgaria",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 43.0,
+        "longitude": 25.0,
+        "CountryCode": "BG"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 52,
+        "GenreRank": 1.0,
+        "CountryName": "bulgaria",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 43.0,
+        "longitude": 25.0,
+        "CountryCode": "BG"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 20,
+        "GenreRank": 3.0,
+        "CountryName": "bulgaria",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 43.0,
+        "longitude": 25.0,
+        "CountryCode": "BG"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 51,
+        "GenreRank": 2.0,
+        "CountryName": "costa_rica",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 10.0,
+        "longitude": -84.0,
+        "CountryCode": "CR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "costa_rica",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 10.0,
+        "longitude": -84.0,
+        "CountryCode": "CR"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 77,
+        "GenreRank": 1.0,
+        "CountryName": "costa_rica",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 10.0,
+        "longitude": -84.0,
+        "CountryCode": "CR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 51,
+        "GenreRank": 2.0,
+        "CountryName": "ecuador",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -2.0,
+        "longitude": -77.5,
+        "CountryCode": "EC"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 23,
+        "GenreRank": 3.0,
+        "CountryName": "ecuador",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -2.0,
+        "longitude": -77.5,
+        "CountryCode": "EC"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 82,
+        "GenreRank": 1.0,
+        "CountryName": "ecuador",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -2.0,
+        "longitude": -77.5,
+        "CountryCode": "EC"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 51,
+        "GenreRank": 2.0,
+        "CountryName": "el_salvador",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 13.83,
+        "longitude": -88.92,
+        "CountryCode": "SV"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "el_salvador",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 13.83,
+        "longitude": -88.92,
+        "CountryCode": "SV"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 81,
+        "GenreRank": 1.0,
+        "CountryName": "el_salvador",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 13.83,
+        "longitude": -88.92,
+        "CountryCode": "SV"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 47,
+        "GenreRank": 1.0,
+        "CountryName": "greece",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 39.0,
+        "longitude": 22.0,
+        "CountryCode": "GR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 10,
+        "GenreRank": 2.5,
+        "CountryName": "greece",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 39.0,
+        "longitude": 22.0,
+        "CountryCode": "GR"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 10,
+        "GenreRank": 2.5,
+        "CountryName": "greece",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 39.0,
+        "longitude": 22.0,
+        "CountryCode": "GR"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 42,
+        "GenreRank": 2.0,
+        "CountryName": "guatemala",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 15.5,
+        "longitude": -90.25,
+        "CountryCode": "GT"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 71,
+        "GenreRank": 1.0,
+        "CountryName": "guatemala",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 15.5,
+        "longitude": -90.25,
+        "CountryCode": "GT"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 24,
+        "GenreRank": 3.0,
+        "CountryName": "guatemala",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 15.5,
+        "longitude": -90.25,
+        "CountryCode": "GT"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 50,
+        "GenreRank": 2.0,
+        "CountryName": "honduras",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 15.0,
+        "longitude": -86.5,
+        "CountryCode": "HN"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "honduras",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 15.0,
+        "longitude": -86.5,
+        "CountryCode": "HN"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 86,
+        "GenreRank": 1.0,
+        "CountryName": "honduras",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 15.0,
+        "longitude": -86.5,
+        "CountryCode": "HN"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 9,
+        "GenreRank": 3.0,
+        "CountryName": "malaysia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 2.5,
+        "longitude": 112.5,
+        "CountryCode": "MY"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 59,
+        "GenreRank": 1.0,
+        "CountryName": "malaysia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 2.5,
+        "longitude": 112.5,
+        "CountryCode": "MY"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 12,
+        "GenreRank": 2.0,
+        "CountryName": "malaysia",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 2.5,
+        "longitude": 112.5,
+        "CountryCode": "MY"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 50,
+        "GenreRank": 2.0,
+        "CountryName": "panama",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 9.0,
+        "longitude": -80.0,
+        "CountryCode": "PA"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 20,
+        "GenreRank": 3.0,
+        "CountryName": "panama",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 9.0,
+        "longitude": -80.0,
+        "CountryCode": "PA"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 73,
+        "GenreRank": 1.0,
+        "CountryName": "panama",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 9.0,
+        "longitude": -80.0,
+        "CountryCode": "PA"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 38,
+        "GenreRank": 1.0,
+        "CountryName": "poland",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 52.0,
+        "longitude": 20.0,
+        "CountryCode": "PL"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 9,
+        "GenreRank": 3.0,
+        "CountryName": "poland",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 52.0,
+        "longitude": 20.0,
+        "CountryCode": "PL"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 21,
+        "GenreRank": 2.0,
+        "CountryName": "poland",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 52.0,
+        "longitude": 20.0,
+        "CountryCode": "PL"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 31,
+        "GenreRank": 2.0,
+        "CountryName": "sweden",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 62.0,
+        "longitude": 15.0,
+        "CountryCode": "SE"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "sweden",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 62.0,
+        "longitude": 15.0,
+        "CountryCode": "SE"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 61,
+        "GenreRank": 1.0,
+        "CountryName": "sweden",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 62.0,
+        "longitude": 15.0,
+        "CountryCode": "SE"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 28,
+        "GenreRank": 1.5,
+        "CountryName": "austria",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 47.33,
+        "longitude": 13.33,
+        "CountryCode": "AT"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "austria",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 47.33,
+        "longitude": 13.33,
+        "CountryCode": "AT"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 28,
+        "GenreRank": 1.5,
+        "CountryName": "austria",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 47.33,
+        "longitude": 13.33,
+        "CountryCode": "AT"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 27,
+        "GenreRank": 2.0,
+        "CountryName": "finland",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 64.0,
+        "longitude": 26.0,
+        "CountryCode": "FI"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 53,
+        "GenreRank": 1.0,
+        "CountryName": "finland",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 64.0,
+        "longitude": 26.0,
+        "CountryCode": "FI"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 7,
+        "GenreRank": 3.0,
+        "CountryName": "finland",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": 64.0,
+        "longitude": 26.0,
+        "CountryCode": "FI"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 18,
+        "GenreRank": 3.0,
+        "CountryName": "hungary",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "CountryCode": "HU"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 21,
+        "GenreRank": 2.0,
+        "CountryName": "hungary",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "CountryCode": "HU"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 33,
+        "GenreRank": 1.0,
+        "CountryName": "hungary",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 47.0,
+        "longitude": 20.0,
+        "CountryCode": "HU"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 22,
+        "GenreRank": 3.0,
+        "CountryName": "iceland",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 65.0,
+        "longitude": -18.0,
+        "CountryCode": "IS"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 47,
+        "GenreRank": 1.0,
+        "CountryName": "iceland",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 65.0,
+        "longitude": -18.0,
+        "CountryCode": "IS"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 38,
+        "GenreRank": 2.0,
+        "CountryName": "iceland",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 65.0,
+        "longitude": -18.0,
+        "CountryCode": "IS"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 22,
+        "GenreRank": 2.0,
+        "CountryName": "lithuania",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 56.0,
+        "longitude": 24.0,
+        "CountryCode": "LT"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 18,
+        "GenreRank": 3.0,
+        "CountryName": "lithuania",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 56.0,
+        "longitude": 24.0,
+        "CountryCode": "LT"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 41,
+        "GenreRank": 1.0,
+        "CountryName": "lithuania",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 56.0,
+        "longitude": 24.0,
+        "CountryCode": "LT"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 44,
+        "GenreRank": 2.0,
+        "CountryName": "new_zealand",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -41.0,
+        "longitude": 174.0,
+        "CountryCode": "NZ"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 48,
+        "GenreRank": 1.0,
+        "CountryName": "new_zealand",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -41.0,
+        "longitude": 174.0,
+        "CountryCode": "NZ"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 20,
+        "GenreRank": 3.0,
+        "CountryName": "new_zealand",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": -41.0,
+        "longitude": 174.0,
+        "CountryCode": "NZ"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 51,
+        "GenreRank": 2.0,
+        "CountryName": "nicaragua",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 13.0,
+        "longitude": -85.0,
+        "CountryCode": "NI"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 15,
+        "GenreRank": 3.0,
+        "CountryName": "nicaragua",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 13.0,
+        "longitude": -85.0,
+        "CountryCode": "NI"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 83,
+        "GenreRank": 1.0,
+        "CountryName": "nicaragua",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": 13.0,
+        "longitude": -85.0,
+        "CountryCode": "NI"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 8,
+        "GenreRank": 2.0,
+        "CountryName": "romania",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 46.0,
+        "longitude": 25.0,
+        "CountryCode": "RO"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 7,
+        "GenreRank": 3.0,
+        "CountryName": "romania",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 46.0,
+        "longitude": 25.0,
+        "CountryCode": "RO"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 18,
+        "GenreRank": 1.0,
+        "CountryName": "romania",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 46.0,
+        "longitude": 25.0,
+        "CountryCode": "RO"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 12,
+        "GenreRank": 2.0,
+        "CountryName": "singapore",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 1.37,
+        "longitude": 103.8,
+        "CountryCode": "SG"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 60,
+        "GenreRank": 1.0,
+        "CountryName": "singapore",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 1.37,
+        "longitude": 103.8,
+        "CountryCode": "SG"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 9,
+        "GenreRank": 3.0,
+        "CountryName": "singapore",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 1.37,
+        "longitude": 103.8,
+        "CountryCode": "SG"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 46,
+        "GenreRank": 2.0,
+        "CountryName": "south_africa",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -29.0,
+        "longitude": 24.0,
+        "CountryCode": "ZA"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 59,
+        "GenreRank": 1.0,
+        "CountryName": "south_africa",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -29.0,
+        "longitude": 24.0,
+        "CountryCode": "ZA"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 21,
+        "GenreRank": 3.0,
+        "CountryName": "south_africa",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": -29.0,
+        "longitude": 24.0,
+        "CountryCode": "ZA"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 39,
+        "GenreRank": 2.0,
+        "CountryName": "switzerland",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 47.0,
+        "longitude": 8.0,
+        "CountryCode": "CH"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 25,
+        "GenreRank": 3.0,
+        "CountryName": "switzerland",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 47.0,
+        "longitude": 8.0,
+        "CountryCode": "CH"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 59,
+        "GenreRank": 1.0,
+        "CountryName": "switzerland",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 47.0,
+        "longitude": 8.0,
+        "CountryCode": "CH"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 50,
+        "GenreRank": 1.0,
+        "CountryName": "uruguay",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -33.0,
+        "longitude": -56.0,
+        "CountryCode": "UY"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 30,
+        "GenreRank": 3.0,
+        "CountryName": "uruguay",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -33.0,
+        "longitude": -56.0,
+        "CountryCode": "UY"
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "DataValue": 32,
+        "GenreRank": 2.0,
+        "CountryName": "uruguay",
+        "GenreIcon": "/static/images/reggae.png",
+        "latitude": -33.0,
+        "longitude": -56.0,
+        "CountryCode": "UY"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 42,
+        "GenreRank": 1.0,
+        "CountryName": "czech_republic",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 49.75,
+        "longitude": 15.5,
+        "CountryCode": "CZ"
+    },
+    {
+        "Genre": "EDM",
+        "DataValue": 21,
+        "GenreRank": 3.0,
+        "CountryName": "czech_republic",
+        "GenreIcon": "/static/images/EDM.png",
+        "latitude": 49.75,
+        "longitude": 15.5,
+        "CountryCode": "CZ"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 36,
+        "GenreRank": 2.0,
+        "CountryName": "czech_republic",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 49.75,
+        "longitude": 15.5,
+        "CountryCode": "CZ"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 5,
+        "GenreRank": 3.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 32,
+        "GenreRank": 1.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 2.0,
+        "CountryName": "indonesia",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": -5.0,
+        "longitude": 120.0,
+        "CountryCode": "ID"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 108,
+        "GenreRank": 2.0,
+        "CountryName": "mongolia",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 46.0,
+        "longitude": 105.0,
+        "CountryCode": "MN"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 113,
+        "GenreRank": 1.0,
+        "CountryName": "mongolia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 46.0,
+        "longitude": 105.0,
+        "CountryCode": "MN"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 17,
+        "GenreRank": 3.0,
+        "CountryName": "mongolia",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 46.0,
+        "longitude": 105.0,
+        "CountryCode": "MN"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 32,
+        "GenreRank": 2.0,
+        "CountryName": "pakistan",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 30.0,
+        "longitude": 70.0,
+        "CountryCode": "PK"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 39,
+        "GenreRank": 1.0,
+        "CountryName": "pakistan",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 30.0,
+        "longitude": 70.0,
+        "CountryCode": "PK"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 28,
+        "GenreRank": 3.0,
+        "CountryName": "pakistan",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 30.0,
+        "longitude": 70.0,
+        "CountryCode": "PK"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 21,
+        "GenreRank": 2.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 35,
+        "GenreRank": 1.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 3.0,
+        "CountryName": "philippines",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 13.0,
+        "longitude": 122.0,
+        "CountryCode": "PH"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 57,
+        "GenreRank": 1.0,
+        "CountryName": "saudi_arabia",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": 25.0,
+        "longitude": 45.0,
+        "CountryCode": "SA"
+    },
+    {
+        "Genre": "Rock/Metal",
+        "DataValue": 12,
+        "GenreRank": 3.0,
+        "CountryName": "saudi_arabia",
+        "GenreIcon": "/static/images/rock-music.png",
+        "latitude": 25.0,
+        "longitude": 45.0,
+        "CountryCode": "SA"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 19,
+        "GenreRank": 2.0,
+        "CountryName": "saudi_arabia",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": 25.0,
+        "longitude": 45.0,
+        "CountryCode": "SA"
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "DataValue": 9,
+        "GenreRank": 3.0,
+        "CountryName": "brazil",
+        "GenreIcon": "/static/images/hiphop.png",
+        "latitude": -10.0,
+        "longitude": -55.0,
+        "CountryCode": "BR"
+    },
+    {
+        "Genre": "Pop",
+        "DataValue": 20,
+        "GenreRank": 2.0,
+        "CountryName": "brazil",
+        "GenreIcon": "/static/images/pop.png",
+        "latitude": -10.0,
+        "longitude": -55.0,
+        "CountryCode": "BR"
+    },
+    {
+        "Genre": "Other",
+        "DataValue": 78,
+        "GenreRank": 1.0,
+        "CountryName": "brazil",
+        "GenreIcon": "/static/images/othergenres.png",
+        "latitude": -10.0,
+        "longitude": -55.0,
+        "CountryCode": "BR"
+    }
+]
+ * Serving Flask app 'web'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:9090
+Press CTRL+C to quit

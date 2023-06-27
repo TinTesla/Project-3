@@ -1,0 +1,48 @@
+
+chart.js
+https://www.chartjs.org/docs/latest/getting-started/
+https://www.chartjs.org/docs/latest/charts/bar.html
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+radar chart: 
+https://www.chartjs.org/docs/latest/charts/radar.html
+
+doughnut: 
+https://www.chartjs.org/docs/latest/charts/doughnut.html#doughnut
+
+Stamen toner leaflet.js plugin for maps:
+https://stackoverflow.com/questions/48874337/how-to-use-leaflet-js-plugin-with-stamen-maps
+https://leafletjs.com/examples/quick-start/
+
+flag icons -> https://flagpedia.net/download/api
+
+
+bootstrap
+https://codepen.io/NolWag/pen/LzdOmb
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+css tutorial: 
+https://www.w3schools.com/css/
+
+jquery tutorial:
+https://www.w3schools.com/jquery/default.asp
+
+
+
+slick carousel -> https://alvarotrigo.com/blog/jquery-carousel/
+jquery plugins-> https://github.com/kenwheeler/slick
+
+js-tree, jquery plugin: 
+https://www.jstree.com/
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
+
+regression-js
+https://tom-alexander.github.io/regression-js/
+how to use- https://github.com/Tom-Alexander/regression-js
+CDN: https://cdnjs.com/libraries/regression
+
+random color generator: https://stackoverflow.com/questions/20553036/random-color-in-jquery
+
+for icons: 
+
+https://icons8.com/

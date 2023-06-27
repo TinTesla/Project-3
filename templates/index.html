@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Spotify Music Analysis Dashboard</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css'><link rel="stylesheet" href="/static/styles/style.css">
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+  <!-- Add the slick-theme.css if you want default styling -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <!-- Add the slick-theme.css if you want default styling -->
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+  <script>var mapdata = {{tableData|tojson}};
+          var Year_song_char = {{Year_song_char|tojson}};
+          var Year_metrics = {{Year_metrics|tojson}};
+          var TopGenres = {{TopGenres|tojson}};
+          var UniqueGenres = {{UniqueGenres|tojson}};
+          var CountriesbyGenre = {{CountriesbyGenre|tojson}};
+ </script>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container-fluid fill">
+  <div class="row">
+    <div class="col-md-2 bg-dark">
+      <img class="img-fluid p-4" src="https://img.icons8.com/color/128/music-transcript.png"/>
+        <ul class="nav nav-pills flex-column">
+          <li class="nav-item">
+            <a class="nav-link active" href="/Songs">Songs 2000-2023</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="/songcharvstime">Song Characteristics over Time</a>
+          </li>
+          <li class="nav-item">
+            <div class="span-div">
+            <span class="nav-link-span">Song Characteristics vs Popularity</span>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2023">2023</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2022">2022</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2021">2021</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2020">2020</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2019">2019</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2018">2018</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2017">2017</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2016">2016</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2015">2015</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2014">2014</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2013">2013</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2012">2012</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2011">2011</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2010">2010</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2009">2009</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2008">2008</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2007">2007</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2006">2006</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2005">2005</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2004">2004</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2003">2003</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="/Year/2002">2002</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2001">2001</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Year/2000">2000</a>
+          </li>
+
+       </ul>
+      </div>
+    
+    <div class="col-md-10">
+
+    <div class="row">
+
+      <div class="col-md-12">
+      <div class="banner">
+        <span>Spotify Music Dashboard Year 2000-2023</span><img width="32" src="https://img.icons8.com/arcade/48/spotify.png"><a href="/Timeline" class="btn btn-info">View Timeline</a>
+
+      </div>
+
+    </div>
+
+      </div>
+      <!-- Progress Bars -->
+
+    <div class="popularity_div">
+      <ul class='slider' id="popularity">
+        {% for row in Year_bin %}
+                <li class="year_data">
+                  <h4>{{row['Year']}}</h4>
+                  <table class="pop_tbl">
+                    <tr>
+                      <td class="songlist">
+                       <ul class="popular_songlist">
+                  {% for songitem in row['Song'] %}
+                    <li>
+                    <div>
+                      <span>{{songitem['Title']}} </span><img width=24px src="{{songitem['GenreIcon']}}">
+                    </div>
+                    <a href="/Artist/{{songitem['Artist_ID']}}"><span>{{songitem['Artist']}}</span></a> | <span>{{songitem['Genre']}}</span>
+                    </li>
+                  {% endfor %}
+                  </ul>
+                      </td>
+                      <td style="vertical-align: top">
+                        <div>
+                          <canvas style="vertical-align: top" data-role="display" data-year={{row['Year']}}></canvas>
+                          <canvas style="vertical-align: bottom" data-role="display" data-yearinfo={{row['Year']}}></canvas>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+
+                </li>
+
+            {% endfor %}
+      </ul>
+    </div>
+    <div class="apptable" style="height:750px;overflow-y:scroll">
+      <div class="selectdiv">
+      <span class="selectheader">Explore by Genre Popularity</span>
+      <select class="genrerankselector" id="genreselector" onchange="explorebyGenrePopularity()">
+        <option selected value="Most Popular"> <span style="color: yellow;">&#x2605;&#x2605;&#x2605;</span> Most Popular</option>
+        <option value="Second Most Popular"><span style="color: yellow;">&#x2605;&#x2605;</span>  Second Most Popular</option>
+        <option value="Third Most Popular"><span style="color: yellow;">&#x2605;</span> Third Most Popular</option>
+      </select>
+       <div id="Available_genres">
+
+      <ul id="genrelist" class="genrelist">
+        {% for row in UniqueGenres %}
+        <li>
+          <a class="genrelink" href="#" data-genre="{{row['Genre']}}" ><img src="{{row['GenreIcon']}}" width=32 >{{row['Genre']}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+         <a href="#" id="reset" >Clear filters on Genre</a>
+
+    </div>
+      </div>
+      <div class="appMap" id="map"></div>
+     </div>
+
+
+</div>
+</div>
+  </div>
+<!-- partial -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js'></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+<script src="/static/js/appdata.js"></script>
+
+</body>
+</html>
