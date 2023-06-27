@@ -28,7 +28,7 @@ function createBubbleChart(data, selectedGenre) {
   const bubbleData = [{
     x: filteredData.map(entry => entry.Bpm),
     y: filteredData.map(entry => entry.Valence),
-    text: filteredData.map(entry => entry.Title),
+    text: filteredData.map(entry => `Title: ${entry.Title}<br>Artist: ${entry.Artist}`), // Added hover text for title and artist
     mode: "markers",
     marker: {
       size: filteredData.map(entry => entry["Duration (in seconds)"] / 10),
@@ -39,7 +39,9 @@ function createBubbleChart(data, selectedGenre) {
 
   const bubbleLayout = {
     xaxis: { title: "Bpm" },
-    yaxis: { title: "Valence" }
+    yaxis: { title: "Valence" },
+    showlegend: true, // Added legend
+    legend: { x: 1, y: 1 }
   };
 
   Plotly.newPlot("bubble", bubbleData, bubbleLayout);
@@ -88,7 +90,10 @@ function createChoroplethMap(countryData, selectedGenre) {
     locations: countryNames,
     z: genreValues,
     locationmode: "country names",
-    colorscale: getGenreColorScale(selectedGenre),
+    colorscale: [
+      [0, "grey"], // Low value color
+      [1, "red"] // High value color
+    ],
     zmin: 0,
     zmax: getMaxValue(countryData, selectedGenre),
     // Set default color and value for missing countries
@@ -108,7 +113,7 @@ function createChoroplethMap(countryData, selectedGenre) {
   });
 
   const choroplethLayout = {
-    title: selectedGenre,
+    title: selectedGenre || "Most Popular Genre", // Display "Most Popular Genre" when no genre is selected
     geo: {
       showframe: false,
       showcoastlines: false,
@@ -132,26 +137,6 @@ function getAllCountries() {
 // Function to get the maximum value for a selected genre
 function getMaxValue(data, genre) {
   return Math.max(...data.map(entry => entry[genre]));
-}
-
-// Function to get the colorscale for a selected genre
-function getGenreColorScale(genre) {
-  switch (genre) {
-    case "Hip hop/Rap/R&b":
-      return "Reds";
-    case "EDM":
-      return "Oranges";
-    case "Pop":
-      return "Yellows";
-    case "Rock/Metal":
-      return "Greens";
-    case "Latin/Reggaeton":
-      return "Blues";
-    case "Other":
-      return "Purples";
-    default:
-      return "Greys";
-  }
 }
 
 // Update all the plots when a new genre is selected
