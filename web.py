@@ -1,5 +1,5 @@
 import pandas as pd
-from flask import Flask,render_template, jsonify
+from flask import Flask,render_template
 import json
 import spotifyAnalysis
 
@@ -17,6 +17,13 @@ with open(app_config_file,"r") as configobj:
 app = Flask(__name__)
 @app.route('/')
 def welcome():
+    """
+    #Welcome page shows the main default Dashboard hosting the following in a sliding slick carousel format:
+    #Top 20 songs from 2000-2023 alongside 2 graphs: bar graph showing count of songs in the top 20 per genre,
+    #doughnut chart showing characteristics distribution of those top 20 songs
+    :return:
+    - index.html
+    """
     #dt = Spotify_Data.getArtistdata(artist_id='4524518717075603732')
     genredata = Spotify_Data.GenrebyCountry
     genres = Spotify_Data.Genres
@@ -77,17 +84,42 @@ def welcome():
                            Year_song_char=Year_song_char,genres=genres,TopGenres=TopGenres,
                            UniqueGenres = UniqueGenres, CountriesbyGenre=CountriesbyGenre)
 
+
 @app.route('/Timeline')
 def showTimeline():
+    """
+    #Timeline route gets triggered on View Timeline button click
+    #Show interactive timeline bar chart of average popularity over the years
+    #On click of Back to Dashboard button takes to the main page
+    :return:
+    - timeline.html
+    """
     return render_template("timeline.html")
 
-# '/timelineseries' is called from timeline.html
+
 @app.route('/timelineseries')
 def showTimelineSeries():
+    """
+    # '/timelineseries' is called from timeline.html
+    #returns static htmls created from plotly_express in jupyter
+    :return:
+    - timelineseries.html
+    """
     return render_template("timelineseries.html")
+
 
 @app.route('/Songs')
 def showSongs():
+    """
+    #Songs route gets triggered on click of Songs 2000-2023 button
+    #Shows the following in jstree format:
+    #List of songs appearing in top charts over multiple years
+    #Artists having their songs appearing in top charts over multiple years
+    #Artists appearing more than once in a Year and the list of those songs
+    #On click of Back to Dashboard button takes to the main page
+    :return:
+    - songs.html
+    """
     Songs_by_year = Spotify_Data.Songs_by_year
     Spotify_top_songs = Spotify_Data.Spotify_top_songs
     Songs = Spotify_Data.Songs
@@ -114,8 +146,17 @@ def showSongs():
     return render_template("songs.html",Songs_by_year=Songs_by_year,titles=titles,nYears=nYears,
                            Spotify_top_songs=Spotify_top_songs,Spotify_top_artists=Spotify_top_artists,Year_by_artists=Year_by_artists)
 
+
 @app.route('/Year/<year>')
 def getYearlycharacteristics(year):
+    """
+    #Year route lists all the individual year data for all characteristics vs popularity scatter plots and regression analysis.
+    #Each button links to indvidual years.
+    #On click of Back to Dashboard button takes to the main page
+    :param year:
+    :return:
+    - characteristics.html
+    """
     yearly_data = Spotify_Data.getSongCharacteristics(year=year)
 
     yearly_data = yearly_data[0]
@@ -153,12 +194,56 @@ def getYearlycharacteristics(year):
 
     return render_template("characteristics.html",yearly_characteristics_data=yearly_characteristics_data,year=year)
 
+
 @app.route('/Artist/<artist_id>')
 def getArtiststats(artist_id):
+    """
+    #On click of any artist on the top 20 songs list on slick caraousel - Artist route gets triggered which based on Artist ID
+    #  opens up a page showing Artist specific details: Popular songs, the years they appeared in the charts, popularity and
+    #characteristics of all those songs in a radar chart represenation
+    #On click of Back to Dashboard button takes to the main page
+    :param artist_id:
+    :return:
+    - artist.html
+    """
 
     artist_stats = Spotify_Data.getArtistdata(artist_id=artist_id)
 
     return render_template("artist.html",artist_stats=artist_stats)
+
+
+@app.route('/songcharvstime')
+def showSongCharvsTimeWrapper():
+    """
+    #On click of the Song Characteristics over Time button triggers the wrapper html characteristicsvstime.html
+    #which shows two graphs: 1) Songs Characteristics vs Year and 2) Song Characteristics Timeline
+    #On click of Back to Dashboard button takes to the main page
+    :return:
+    - characteristicsvstime
+    """
+    return render_template("characteristicsvstime.html")
+
+
+@app.route('/songcharvstime1')
+def showSongCharvsTime():
+    """
+    #/songcharvstime returns static htmls created from plotly_express in jupyter
+    :return:
+    - spotify_characteristics_over_time.html
+    """
+    return render_template("spotify_characteristics_over_time.html")
+
+@app.route('/chartimelineseries')
+def showSongCharTimeline():
+    """
+    #/songcharvstime returns static htmls created from plotly_express in jupyter
+    :return:
+    - trends_over_time.html
+    """
+    return render_template("trends_over_time.html")
+
+
+
 
 if __name__ == '__main__':
    app.run(port=app_port)

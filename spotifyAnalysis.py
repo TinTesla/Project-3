@@ -56,6 +56,13 @@ class SpotifyData:
 
 
     def getGenrebyCountry_db(self):
+        """
+        - Fetches all Genre data from the country_genres_data table in spotify_db
+        - Merges the country coordinates from countries table: getCountries_db
+        :return:
+        - unique genres list
+        - genres data json
+        """
         query = 'Select Country,"Hip hop/Rap/R&b",EDM,Pop,"Rock/Metal","Latin/Reggaeton",Other,"Most Popular Genre" from country_genres_data;'
         df = pd.read_sql(query,con=conn)
         df["GenreIcon"] = df["Most Popular Genre"].apply(self.getGenreIcon)
@@ -71,6 +78,12 @@ class SpotifyData:
 
 
     def getCountries_db(self):
+        """
+          - Fetches all countries data from the countries table in spotify_db
+
+          :return:
+          - countries dictionary
+          """
         query = "Select CountryCode,Country,Latitude,Longitude from countries;"
         df = pd.read_sql(query,con=conn)
         df["ID"] = df["Country"]
@@ -81,6 +94,14 @@ class SpotifyData:
 
     #country look up to fecth coordinates for map
     def getCoordinates(self,country,type):
+        """
+           - Returns latitude or longitude of a country based on the type parameter
+
+           :return:
+           - if type is latitude returns latitude
+           - if type is longitude returns longitude
+           - if type is code returns country code
+           """
         return_data = ""
         if type == "latitude":
             country_data = self.CountriesCoords.get(country)
@@ -97,11 +118,24 @@ class SpotifyData:
         return return_data
 
     def getGenreIcon(self,genre):
+        """
+             - Returns the icon based on genre
+
+             :return:
+             - icon url
+        """
         return genre_icons.get(genre) or 'https://img.icons8.com/color/24/international-music.png'
 
-    #function to read the Spotify dataset having yearly data of songs and artists - carousel/slick
+
 
     def getSpotifyData_DB(self):
+        """
+                - function to read the Spotify dataset having yearly data of songs and artists since year 2000
+                - database table name:spotify_data
+
+                :return:
+                - spotify data json
+           """
         query = "Select Title,Artist,Genre,Year,Bpm,Energy,Danceability,Db,Liveness,Valence,Duration,Acousticness,Speechiness,Popularity,Artist_ID from spotify_data" \
                 " where Year >= 2000;"
         raw_spotify_data_df = pd.read_sql(query,con=conn)
@@ -112,6 +146,13 @@ class SpotifyData:
         return raw_spotify_json
 
     def setRank(self,rankvalue):
+        """
+                - sets the popularity rank text based on the popularity rank value
+                - this sets the value for the drop down for map plot
+
+                :return:
+                - rank text
+           """
         ranktext = ""
         if rankvalue == 1:
             ranktext = "Most Popular"
@@ -122,6 +163,11 @@ class SpotifyData:
         return ranktext
 
     def getTopNGenresbyCountry_db(self):
+        """
+                - Returns top 3 popular genres by country
+                :return:
+                - topGenres,unique_genres,CountriesbyGenre json
+           """
         query = 'Select Country,"Hip hop/Rap/R&b",EDM,Pop,"Rock/Metal","Latin/Reggaeton",Other,"Most Popular Genre" from country_genres_data;'
         df = pd.read_sql(query, con=conn)
 
@@ -190,6 +236,11 @@ class SpotifyData:
 
     #Song appearances in the charts more than a year
     def getSongsMultipleOccurences_db(self):
+        """
+                 - Returns songs appearing in the top charts over multiple years
+                 :return:
+                 - songs_by_year,spotify_top_songs,songs,year_by_artists json
+            """
         query = "Select Title,Artist,Genre,Year,Bpm,Energy,Danceability,Db,Liveness,Valence,Duration,Acousticness," \
                 "Speechiness,Popularity,Artist_ID from spotify_data where Year >= 2000;"
 
@@ -242,6 +293,11 @@ class SpotifyData:
         return songs_by_year,spotify_top_songs,songs,year_by_artists
 
     def getSongCharacteristics(self,year):
+        """
+                    - Returns songs characteristics vs Popularity for each year
+                    :return:
+                    - yearly_df json
+               """
 
         query = "Select Title,Artist,Genre,Year,Bpm,Energy,Danceability,Db,Liveness,Valence,Duration,Acousticness," \
                 "Speechiness,Popularity,Artist_ID from spotify_data where Year = {0};".format(year)
@@ -276,6 +332,12 @@ class SpotifyData:
 
     #artists-their songs and characteristics across all years
     def getArtistdata(self,artist_id):
+        """
+                    - Query the Spotify database and return songs and their characteristics for a specific artist
+                    :return:
+                    - artist_data json
+               """
+
 
         query = "Select Title,Artist,Genre,Year,Bpm,Energy,Danceability,Db,Liveness,Valence,Duration,Acousticness," \
                 "Speechiness,Popularity,Artist_ID from spotify_data where Artist_ID = '{0}';".format(artist_id)
