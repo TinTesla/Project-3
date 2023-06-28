@@ -1,0 +1,1563 @@
+C:\Users\bijoy\OneDrive\Documents\GitHub\Project-3\venv\Scripts\python.exe C:/Users/bijoy/OneDrive/Documents/GitHub/Project-3/web.py
+[
+    {
+        "Genre": "EDM",
+        "GenreIcon": "/static/images/EDM.png",
+        "Location": [
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genrerank": 3.0
+            }
+        ]
+    },
+    {
+        "Genre": "Hip hop/Rap/R&b",
+        "GenreIcon": "/static/images/hiphop.png",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 60.0,
+                "lng": 100.0,
+                "countrycode": "RU",
+                "countryiconURL": "/static/images/flags/RU.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 37.0,
+                "lng": 127.5,
+                "countrycode": "KR",
+                "countryiconURL": "/static/images/flags/KR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genrerank": 1.5
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genrerank": 2.5
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genrerank": 1.5
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genrerank": 3.0
+            }
+        ]
+    },
+    {
+        "Genre": "Latin/Reggaeton",
+        "GenreIcon": "/static/images/reggae.png",
+        "Location": [
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genrerank": 1.5
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genrerank": 2.0
+            }
+        ]
+    },
+    {
+        "Genre": "Other",
+        "GenreIcon": "/static/images/othergenres.png",
+        "Location": [
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 23.0,
+                "lng": -102.0,
+                "countrycode": "MX",
+                "countryiconURL": "/static/images/flags/MX.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -30.0,
+                "lng": -71.0,
+                "countrycode": "CL",
+                "countryiconURL": "/static/images/flags/CL.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genrerank": 2.5
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genrerank": 2.5
+            },
+            {
+                "lat": 15.5,
+                "lng": -90.25,
+                "countrycode": "GT",
+                "countryiconURL": "/static/images/flags/GT.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genrerank": 1.0
+            }
+        ]
+    },
+    {
+        "Genre": "Pop",
+        "GenreIcon": "/static/images/pop.png",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 35.0,
+                "lng": 105.0,
+                "countrycode": "CN",
+                "countryiconURL": "/static/images/flags/CN.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 20.0,
+                "lng": 77.0,
+                "countrycode": "IN",
+                "countryiconURL": "/static/images/flags/IN.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 60.0,
+                "lng": 100.0,
+                "countrycode": "RU",
+                "countryiconURL": "/static/images/flags/RU.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 38.0,
+                "lng": -97.0,
+                "countrycode": "US",
+                "countryiconURL": "/static/images/flags/US.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 4.0,
+                "lng": -72.0,
+                "countrycode": "CO",
+                "countryiconURL": "/static/images/flags/CO.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 2.0,
+                "countrycode": "FR",
+                "countryiconURL": "/static/images/flags/FR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 42.83,
+                "lng": 12.83,
+                "countrycode": "IT",
+                "countryiconURL": "/static/images/flags/IT.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 40.0,
+                "lng": -4.0,
+                "countrycode": "ES",
+                "countryiconURL": "/static/images/flags/ES.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 54.0,
+                "lng": -2.0,
+                "countrycode": "GB",
+                "countryiconURL": "/static/images/flags/GB.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 18.25,
+                "lng": -66.5,
+                "countrycode": "PR",
+                "countryiconURL": "/static/images/flags/PR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -34.0,
+                "lng": -64.0,
+                "countrycode": "AR",
+                "countryiconURL": "/static/images/flags/AR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 51.0,
+                "lng": 9.0,
+                "countrycode": "DE",
+                "countryiconURL": "/static/images/flags/DE.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 31.5,
+                "lng": 34.75,
+                "countrycode": "IL",
+                "countryiconURL": "/static/images/flags/IL.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -23.0,
+                "lng": -58.0,
+                "countrycode": "PY",
+                "countryiconURL": "/static/images/flags/PY.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 37.0,
+                "lng": 127.5,
+                "countrycode": "KR",
+                "countryiconURL": "/static/images/flags/KR.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 23.5,
+                "lng": 121.0,
+                "countrycode": "TW",
+                "countryiconURL": "/static/images/flags/TW.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 49.0,
+                "lng": 32.0,
+                "countrycode": "UA",
+                "countryiconURL": "/static/images/flags/UA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 19.0,
+                "lng": -70.67,
+                "countrycode": "DO",
+                "countryiconURL": "/static/images/flags/DO.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -76.0,
+                "countrycode": "PE",
+                "countryiconURL": "/static/images/flags/PE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 35.0,
+                "countrycode": "TR",
+                "countryiconURL": "/static/images/flags/TR.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 8.0,
+                "lng": -66.0,
+                "countrycode": "VE",
+                "countryiconURL": "/static/images/flags/VE.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 10.0,
+                "countrycode": "DK",
+                "countryiconURL": "/static/images/flags/DK.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 27.0,
+                "lng": 30.0,
+                "countrycode": "EG",
+                "countryiconURL": "/static/images/flags/EG.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 22.25,
+                "lng": 114.17,
+                "countrycode": "HK",
+                "countryiconURL": "/static/images/flags/HK.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 53.0,
+                "lng": -8.0,
+                "countrycode": "IE",
+                "countryiconURL": "/static/images/flags/IE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 32.0,
+                "lng": -5.0,
+                "countrycode": "MA",
+                "countryiconURL": "/static/images/flags/MA.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 52.5,
+                "lng": 5.75,
+                "countrycode": "NL",
+                "countryiconURL": "/static/images/flags/NL.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 10.0,
+                "countrycode": "NO",
+                "countryiconURL": "/static/images/flags/NO.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 39.5,
+                "lng": -8.0,
+                "countrycode": "PT",
+                "countryiconURL": "/static/images/flags/PT.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 16.0,
+                "lng": 106.0,
+                "countrycode": "VN",
+                "countryiconURL": "/static/images/flags/VN.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -17.0,
+                "lng": -65.0,
+                "countrycode": "BO",
+                "countryiconURL": "/static/images/flags/BO.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 43.0,
+                "lng": 25.0,
+                "countrycode": "BG",
+                "countryiconURL": "/static/images/flags/BG.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 10.0,
+                "lng": -84.0,
+                "countrycode": "CR",
+                "countryiconURL": "/static/images/flags/CR.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -2.0,
+                "lng": -77.5,
+                "countrycode": "EC",
+                "countryiconURL": "/static/images/flags/EC.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 13.83,
+                "lng": -88.92,
+                "countrycode": "SV",
+                "countryiconURL": "/static/images/flags/SV.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 39.0,
+                "lng": 22.0,
+                "countrycode": "GR",
+                "countryiconURL": "/static/images/flags/GR.png",
+                "genrerank": 2.5
+            },
+            {
+                "lat": 15.0,
+                "lng": -86.5,
+                "countrycode": "HN",
+                "countryiconURL": "/static/images/flags/HN.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 2.5,
+                "lng": 112.5,
+                "countrycode": "MY",
+                "countryiconURL": "/static/images/flags/MY.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 9.0,
+                "lng": -80.0,
+                "countrycode": "PA",
+                "countryiconURL": "/static/images/flags/PA.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 52.0,
+                "lng": 20.0,
+                "countrycode": "PL",
+                "countryiconURL": "/static/images/flags/PL.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": 62.0,
+                "lng": 15.0,
+                "countrycode": "SE",
+                "countryiconURL": "/static/images/flags/SE.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 47.33,
+                "lng": 13.33,
+                "countrycode": "AT",
+                "countryiconURL": "/static/images/flags/AT.png",
+                "genrerank": 1.5
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 20.0,
+                "countrycode": "HU",
+                "countryiconURL": "/static/images/flags/HU.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 65.0,
+                "lng": -18.0,
+                "countrycode": "IS",
+                "countryiconURL": "/static/images/flags/IS.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 56.0,
+                "lng": 24.0,
+                "countrycode": "LT",
+                "countryiconURL": "/static/images/flags/LT.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.0,
+                "lng": -85.0,
+                "countrycode": "NI",
+                "countryiconURL": "/static/images/flags/NI.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 25.0,
+                "countrycode": "RO",
+                "countryiconURL": "/static/images/flags/RO.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 1.37,
+                "lng": 103.8,
+                "countrycode": "SG",
+                "countryiconURL": "/static/images/flags/SG.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -29.0,
+                "lng": 24.0,
+                "countrycode": "ZA",
+                "countryiconURL": "/static/images/flags/ZA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 47.0,
+                "lng": 8.0,
+                "countrycode": "CH",
+                "countryiconURL": "/static/images/flags/CH.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -33.0,
+                "lng": -56.0,
+                "countrycode": "UY",
+                "countryiconURL": "/static/images/flags/UY.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 49.75,
+                "lng": 15.5,
+                "countrycode": "CZ",
+                "countryiconURL": "/static/images/flags/CZ.png",
+                "genrerank": 2.0
+            },
+            {
+                "lat": -5.0,
+                "lng": 120.0,
+                "countrycode": "ID",
+                "countryiconURL": "/static/images/flags/ID.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 46.0,
+                "lng": 105.0,
+                "countrycode": "MN",
+                "countryiconURL": "/static/images/flags/MN.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 30.0,
+                "lng": 70.0,
+                "countrycode": "PK",
+                "countryiconURL": "/static/images/flags/PK.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 13.0,
+                "lng": 122.0,
+                "countrycode": "PH",
+                "countryiconURL": "/static/images/flags/PH.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genrerank": 1.0
+            },
+            {
+                "lat": -10.0,
+                "lng": -55.0,
+                "countrycode": "BR",
+                "countryiconURL": "/static/images/flags/BR.png",
+                "genrerank": 2.0
+            }
+        ]
+    },
+    {
+        "Genre": "Rock/Metal",
+        "GenreIcon": "/static/images/rock-music.png",
+        "Location": [
+            {
+                "lat": -27.0,
+                "lng": 133.0,
+                "countrycode": "AU",
+                "countryiconURL": "/static/images/flags/AU.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 60.0,
+                "lng": -95.0,
+                "countrycode": "CA",
+                "countryiconURL": "/static/images/flags/CA.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 36.0,
+                "lng": 138.0,
+                "countrycode": "JP",
+                "countryiconURL": "/static/images/flags/JP.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 15.0,
+                "lng": 100.0,
+                "countrycode": "TH",
+                "countryiconURL": "/static/images/flags/TH.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 64.0,
+                "lng": 26.0,
+                "countrycode": "FI",
+                "countryiconURL": "/static/images/flags/FI.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": -41.0,
+                "lng": 174.0,
+                "countrycode": "NZ",
+                "countryiconURL": "/static/images/flags/NZ.png",
+                "genrerank": 3.0
+            },
+            {
+                "lat": 25.0,
+                "lng": 45.0,
+                "countrycode": "SA",
+                "countryiconURL": "/static/images/flags/SA.png",
+                "genrerank": 3.0
+            }
+        ]
+    }
+]
+ * Serving Flask app 'web'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:9090
+Press CTRL+C to quit
