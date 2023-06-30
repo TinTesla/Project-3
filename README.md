@@ -15,29 +15,40 @@ On our interactive dashboard, we visualized our analysis by graphs.
 Bijoyeta Kayal, Crimson Amaro, Emma Ng, Ryan Kincheloe, Stelios Kosmidis, and Tristan Marcum
 
 ## Data Sources
--         Kaggle https://www.kaggle.com/datasets/marshalll3302/favorite-music-genres-by-country
--         Kaggle https://www.kaggle.com/datasets/conorvaneden/best-songs-on-spotify-for-every-year-2000-2023
--         Github https://github.com/albertyw/avenews/blob/master/old/data/average-latitude-longitude-countries.csv
--         Project Presentation (Google Slides): https://docs.google.com/presentation/d/1TTsX6pZhqfhEHLp71BxxL5VOM0qGY6hbfFOpJ0FSu1Q/edit#slide=id.g2552d193502_2_95
+ - Kaggle https://www.kaggle.com/datasets/marshalll3302/favorite-music-genres-by-country
+ - Kaggle https://www.kaggle.com/datasets/conorvaneden/best-songs-on-spotify-for-every-year-2000-2023
+ - Github https://github.com/albertyw/avenews/blob/master/old/data/average-latitude-longitude-countries.csv
+ - Project Presentation (Google Slides): https://docs.google.com/presentation/d/1TTsX6pZhqfhEHLp71BxxL5VOM0qGY6hbfFOpJ0FSu1Q/edit#slide=id.g2552d193502_2_95
 
 ## Languages
-- Python
-- JavaScript
-- HTML
-- CSS
+ - Python
+ - JavaScript
+ - JQuery
+ - HTML/Jinja
+ - CSS
 
-## Software Used
-- Flask
-- Jupyter notebook
-- SQLite
-- pgAdmin 4
+## Python environment requirements:
+ - Pandas
+ - Flask
+ - SQLite
+ - render_template
+   
+## Database testing done in:  
+ - pgAdmin 4
+ - ERD:
+   ![image](https://github.com/TinTesla/Project-3/assets/126313924/459cbdca-ab1a-494e-a131-564a3f42dde1)
+
 
 ## Java Script Libraries Used
-- Chart.js
+- Bootstrap dashboard template(codepen.io)  
+- Chart.js(bar, line, doughnut,radar)
 - Slick Carousel
-- Jquery
+- js-tree
+- Leaflet.js
+- regression-js(for linear regression plots)
 - D3
 - Plotly
+- Plotly_express
 
 ## Data Flow of the Project
 
@@ -47,16 +58,25 @@ Bijoyeta Kayal, Crimson Amaro, Emma Ng, Ryan Kincheloe, Stelios Kosmidis, and Tr
 
 - Created SQL database using pgAdmin4
 
-- Used SQLite to create a database that was able to interact with Flask
+- Used SQLite for easy portability with Flask API and dashboard
 
-- Used Bootstrap to incorporate an interactive home page
+- Used Bootstrap dashboard template to incorporate an interactive home page
 
--
 
 
 ## Analyses
 
-1.
+1. Song characteristics vs Popularity
+   - On the interactive dashboard clicking on each Year(buttons) takes to series of scatter plots of each song characteristics vs popularity/rating. Here is a snapshot of 2023:
+     ![image](https://github.com/TinTesla/Project-3/assets/126313924/7b6f31d4-1ef3-4734-8c87-fdcd3cd93c4e)
+     
+   - Heatmap was used to determine correlation coefficient between each characteristics and popularity:
+
+     ![image](https://github.com/TinTesla/Project-3/assets/126313924/8ec5760e-8439-4d6f-af05-0abe4e462b28)
+
+   - We did not observe a strong correlation between each characteristics and song popularity/rating, however heatmap data gave us an idea that Liveness, Danceability, Accousticness, Speechiness          and Duration of a song has somewhat positive correlation with popularity of a song, as compared to Bpm , Energy and Valence. Considering data limitations, we believe
+     there could be additional factors determining popularity/rating of a song.    
+  
 
 2. Spotify song characteristics over time
 
