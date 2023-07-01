@@ -84,3 +84,7 @@ After running a linear regression, the difference in values is statistically sig
 By counting the number of times an artist’s name appears on the charts over the years, we found the top 40 popular artists and put them in a list.
 In the dataset, there are some song titles that are duplicated, but they have different values in the other columns (such as Spotify ratings). These are the songs that have stayed on the charts for more than one year; we put them into a list.
 Another question that interested us is who has the most songs that have stayed on the charts for more than one year. With the list of songs that stayed on the charts for more than one year, we were able to pull all the artist names for those songs, and count the frequency an artist’s name appears.
+
+![Project 3 Top 40](https://github.com/TinTesla/Project-3/assets/126445425/a4dc600e-1a67-4c4c-9612-63de99015a3e)
+
+![Project 3 Top 15 Artists with Multiple Songs that Stayed on the Charts for More than One Year](https://github.com/TinTesla/Project-3/assets/126445425/27e96e7c-d5c1-4cff-bb65-4561e067837d)
