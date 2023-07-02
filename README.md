@@ -80,25 +80,33 @@ Bijoyeta Kayal, Crimson Amaro, Emma Ng, Ryan Kincheloe, Stelios Kosmidis, and Tr
 
 2. Spotify song characteristics over time
 
-- A.
-These plots show the mean score for each song characteristic every year (1985-2023). Overlayed is the mean score for that characteristic over the whole 43 year span. Song characteristics include: Bpm, Energy, Danceability, dB, Liveness, Valence, Duration (in seconds), Acousticness, Speechiness, & Spotify Rating.
-In my opinion, the most eye-catching trend is between 1995 and 2000. If you look at the years 1996-1999, you can see a period of sharp decline in the following plots:⋅⋅
+   #### A:
+   - These plots show the mean score for each song characteristic every year (1985-2023). Overlayed is the mean score for       that characteristic over the whole 43 year span. Song characteristics include: Bpm, Energy, Danceability,  dB,Liveness, Valence, Duration (in seconds), Acousticness, Speechiness, & Spotify Rating.    
+      In my opinion, the most eye-catching trend is between 1995 and 2000. If you look at the years 1996-1999, you can see a period of sharp decline in the following plots:⋅⋅
+  
+  BPM,
+  Energy
+  
+  While you can see a distinct rise during that same time period in the following plots:
+  
+  Speechiness
+  
+  Acousticness
+  
+  Our hypothesis is that during the late 1990's the public had a phase where slow, speechy, and acoustic-y songs were highly appreciated and quite popular
+  
+  ![image](https://github.com/TinTesla/Project-3/assets/126313924/8764e842-64e6-4ad1-b55d-5befd95478cd)
 
-BPM,
-Energy
+  ![image](https://github.com/TinTesla/Project-3/assets/126313924/5c711817-fc15-41fa-9c06-2de7c8fb48d9)
 
-While you can see a distinct rise during that same time period in the following plots:
+  
 
-Speechiness
-
-Acousticness
-
-Our hypothesis is that during the late 1990's the public had a phase where slow, speechy, and acoustic-y songs were highly appreciated and quite popular
-- B.
-The second trend we observed was how the duration of popular songs has slowly decreased over time. From 1999-2002 the average length of song in the top 100 was over 240s (4 minutes), following this is a stable period where song length remains between 220-240s (3.5-4 min). However, after 2016, things begin to change; by 2019 the mean song length is 200s and by 2023 it drops down to 192s which equates to 3min, 9s per song.
+   #### B:
+   - The second trend we observed was how the duration of popular songs has slowly decreased over time. From 1999-2002 the average length of song in the top 100 was over 240s (4 minutes), following this is a stable period where song length remains between 220-240s (3.5-4 min). However, after 2016, things begin to change; by 2019 the mean song length is 200s and by 2023 it drops down to 192s which equates to 3min, 9s per song.
 At the peak, songs were averaging 250s and by 2023 they have dropped to ~190s. This is close to a full minute shorter. Our hypothesis is that as everyday technology consumption has grown exponentially since 2000, along with the shortening of attention-spans and increase in screen time, musicians have been encouraged to produce shorter and shorter tracks. There is a lot of competition for attention these days and it could be considered risky to create longer tracks as it is more time for a listener to skip or move on to the next thing.
 After running a linear regression, the difference in values is statistically significant (p-value < 0.001). Duration decreases, on average, by ~2s per year.
-
+  - 
+ 
 3. Artists and their Songs over Time
 
 By counting the number of times an artist’s name appears on the charts over the years, we found the top 40 popular artists and put them in a list.
@@ -108,3 +116,58 @@ Another question that interested us is who has the most songs that have stayed o
 ![Project 3 Top 40](https://github.com/TinTesla/Project-3/assets/126445425/a4dc600e-1a67-4c4c-9612-63de99015a3e)
 
 ![Project 3 Top 15 Artists with Multiple Songs that Stayed on the Charts for More than One Year](https://github.com/TinTesla/Project-3/assets/126445425/27e96e7c-d5c1-4cff-bb65-4561e067837d)
+
+### Dashboard interactiveness: 
+  - run web.py(flask API)  either in vscode or pycharm in a python environment that has flask,pandas, render_template modules.
+
+    
+### references:
+
+- chart.js
+  - bar chart: 
+    - https://www.chartjs.org/docs/latest/getting-started/
+    - https://www.chartjs.org/docs/latest/charts/bar.html
+    - CDN : <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  - radar chart: 
+    - https://www.chartjs.org/docs/latest/charts/radar.html
+  - doughnut:
+    - https://www.chartjs.org/docs/latest/charts/doughnut.html#doughnut
+   
+- Stamen toner leaflet.js plugin for maps:
+  - https://stackoverflow.com/questions/48874337/how-to-use-leaflet-js-plugin-with-stamen-maps
+  - https://leafletjs.com/examples/quick-start/
+ 
+- flag icons
+  - https://flagpedia.net/download/api
+ 
+- bootstrap dashboard example
+  - https://codepen.io/NolWag/pen/LzdOmb
+  - https://getbootstrap.com/docs/4.0/components/buttons/
+
+- css tutorial: 
+  - https://www.w3schools.com/css/
+ 
+- jquery tutorial:
+  - https://www.w3schools.com/jquery/default.asp
+ 
+- slick carousel:
+  - https://alvarotrigo.com/blog/jquery-carousel/
+  - https://github.com/kenwheeler/slick
+ 
+- js-tree, jquery plugin: 
+  - https://www.jstree.com/
+  - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
+  
+- regression-js
+  - https://tom-alexander.github.io/regression-js/
+  - how to use- https://github.com/Tom-Alexander/regression-js
+  - CDN: https://cdnjs.com/libraries/regression
+
+- random color generator:
+  - https://stackoverflow.com/questions/20553036/random-color-in-jquery
+ 
+- for icons: 
+ - https://icons8.com/
+
+- https://www.w3schools.com/html/   
+  
